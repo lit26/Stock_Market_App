@@ -1,6 +1,7 @@
 from django.urls import path
-from .views import api_view
+from .views import TickerView, MultiView
 
 urlpatterns = [
-    path('', api_view)
+    path('', TickerView.as_view()),
+    path('multi/', MultiView.as_view())
 ]
