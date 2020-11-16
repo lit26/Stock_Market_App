@@ -1,11 +1,17 @@
 import React from 'react'
+import Footer from './components/Footer'
+import Layout from './components/Layout'
 
 function App() {
     return (
         <div>
-            <h1>Hello Frontend.</h1>
+            <div className="App">
+                <Layout />
+            </div>
+            <Footer />
         </div>
+        
     )
 }
 
-export default App
+export default App;

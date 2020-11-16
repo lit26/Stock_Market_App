@@ -1,0 +1,14 @@
+.Layout{
+    display: flex;
+}
+.Layout__left{
+    flex: 0.75;
+    border: 2px solid rgb(19, 23, 34);
+    min-height: 90vh;
+}
+.Layout__right{
+    flex: 0.25;
+    border: 2px solid rgb(19, 23, 34);
+    min-height: 90vh;
+
+}
