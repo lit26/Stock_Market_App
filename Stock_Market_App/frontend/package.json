@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
     "react-bootstrap": "^1.4.0",
     "react-redux": "^7.2.2",
