@@ -53,6 +53,7 @@ class MultiView(views.APIView):
         def get_market(close_values):
             return {
                 'market': close_values[-1],
+                'chg': close_values[-1] - close_values[-2],
                 'pct': (close_values[-1] - close_values[-2])/close_values[-2]*100
             }
         if len(ticker_list) > 1: 

@@ -1,0 +1,19 @@
+.ChartMenu{
+    display:flex;
+    border-bottom: 2px solid rgb(19, 23, 34);
+    align-items: center;
+    height: 40px;
+}
+.ChartMenu > .ChartMenu__menu{
+    width: 40px;
+    margin-left:2px;
+}
+.Tickerinput{
+    height: 70%;
+    margin: 0px 3px;
+    color: rgb(209, 212, 220);
+    background-color: rgb(30, 34, 45);
+    border: 1px solid rgb(209, 212, 220);
+    border-radius: 4px;
+    padding: 1px 3px;
+}

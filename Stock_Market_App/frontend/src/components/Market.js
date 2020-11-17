@@ -1,12 +1,26 @@
 import React, {useState, useEffect} from 'react'
 import axios from 'axios'
 import MarketRow from './MarketRow'
+import {useDispatch} from 'react-redux'
+import {setTicker} from '../redux/action';
 
 function Market() {
-    const [row, setRow] = useState([])
+    const [row, setRow] = useState([]);
+    const dispatch = useDispatch();
 
     useEffect(()=>{
-        let request = {"tickers":["TSLA","NIO"]}
+        // load from storage
+        let tickers = ["SPY","AAPL",'TSLA']
+        if(localStorage.getItem("tickers") === null){
+            localStorage.setItem("tickers", JSON.stringify(tickers));
+            dispatch(setTicker("SPY"));
+        }else{
+            tickers = JSON.parse(localStorage.getItem("tickers"))
+            dispatch(setTicker(tickers[0]));
+        }
+
+        // request from api
+        let request = {"tickers": tickers}
         axios.post('/api/multi/', request)
             .then(res => {
                 let tickers = res.data.metadata.tickers
