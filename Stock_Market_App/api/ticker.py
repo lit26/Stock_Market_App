@@ -1,6 +1,6 @@
 import yfinance as yf
 
-def fetch_history(ticker, period, interval):
+def fetch_market(ticker, period, interval):
     data = yf.download(
             tickers=ticker,
             period=period,

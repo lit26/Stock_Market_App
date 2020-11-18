@@ -20,8 +20,8 @@ function Market() {
         }
 
         // request from api
-        let request = {"tickers": tickers}
-        axios.post('/api/multi/', request)
+        let request = {"tickers": tickers, "market": "current"}
+        axios.post('/api/', request)
             .then(res => {
                 let tickers = res.data.metadata.tickers
                 let tickerRows = tickers.map((ticker, index)=>
