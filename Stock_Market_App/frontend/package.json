@@ -26,9 +26,12 @@
     "@material-ui/icons": "^4.9.1",
     "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
+    "d3": "^6.2.0",
     "react-bootstrap": "^1.4.0",
+    "react-canvas-js": "^1.0.1",
     "react-redux": "^7.2.2",
     "react-router-dom": "^5.2.0",
+    "react-stockcharts": "^0.7.8",
     "redux": "^4.0.5"
   }
 }

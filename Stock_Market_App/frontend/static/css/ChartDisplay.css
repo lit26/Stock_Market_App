@@ -1,0 +1,12 @@
+.ChartDisplay{
+    z-index: 0;
+}
+.ChartDisplay label, .ChartDisplay select{
+    display:none;
+}
+.react-stockcharts-tooltip-label{
+    stroke:#0a5aa9;
+}
+tspan{
+    stroke: #FFFFFF;
+}

@@ -1,0 +1,26 @@
+.Menu__dropdown{
+    width: 40px;
+    height: 32px;
+    margin: 4px;
+}
+.Menu__dropdownButton{
+    height: 29px;
+    width: 100%;
+    color: rgb(209, 212, 220);
+    background-color: #222838;
+    border: 0px;
+}
+.Menu__dropdownItems{
+    z-index: 2;
+}
+.Menu__dropdownItems > a{
+    display:flex;
+    flex-direction:column;
+    height: 20px;
+    width: 100px;
+    padding: 5px;
+    border: 2px solid rgb(19, 23, 34);
+    background-color: #222838;
+    color: rgb(209, 212, 220);
+    text-decoration: none;
+}

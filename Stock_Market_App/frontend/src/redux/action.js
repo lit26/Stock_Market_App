@@ -4,3 +4,9 @@ export const setTicker = (ticker) =>{
         payload: ticker
     }
 }
+export const setInterval = (interval) =>{
+    return {
+        type: 'SET_INTERVAL',
+        payload: interval
+    }
+}

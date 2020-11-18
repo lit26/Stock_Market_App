@@ -3,14 +3,22 @@
     border-bottom: 2px solid rgb(19, 23, 34);
     align-items: center;
     height: 40px;
+
 }
-.ChartMenu > .ChartMenu__menu{
-    width: 40px;
-    margin-left:2px;
+.ChartMenu > div{
+    height:36px;
+    border: 2px solid rgb(19, 23, 34);
 }
+.ChartMenu__menu{
+    width: 36px;
+}
+.ChartMenu__menu> svg{
+    margin:6px;
+}
+
 .Tickerinput{
-    height: 70%;
-    margin: 0px 3px;
+    height: 26px;
+    margin: 3px 5px;
     color: rgb(209, 212, 220);
     background-color: rgb(30, 34, 45);
     border: 1px solid rgb(209, 212, 220);

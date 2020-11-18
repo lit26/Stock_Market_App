@@ -1,12 +1,20 @@
 import React from 'react'
 import MenuIcon from '@material-ui/icons/Menu';
 import TickerInput from './TickerInput'
+import IntervalInput from './IntervalInput'
 
 function ChartMenu() {
     return (
         <div className="ChartMenu">
-            <MenuIcon className="ChartMenu__menu" />
-            <TickerInput />
+            <div className="ChartMenu__menu" >
+                <MenuIcon/>
+            </div>
+            <div>
+                <TickerInput />
+            </div>
+            <div>
+                <IntervalInput />
+            </div>
         </div>
     )
 }

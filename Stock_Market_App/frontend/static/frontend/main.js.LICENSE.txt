@@ -2,13 +2,45 @@
 
 /*! dynamic exports */
 
+/*! export AlternatingFillAreaSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export AreaOnlySeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export AreaSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export AsyncMode [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export AsyncMode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .AsyncMode */
 
+/*! export BackgroundText [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/BackgroundText.js .default */
+
+/*! export BarSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Basis [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export BollingerBandTooltip [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export BollingerSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export CandlestickSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Cardinal [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export CardinalClosed [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export CardinalOpen [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Chart [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/Chart.js .default */
+
+/*! export ChartCanvas [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/ChartCanvas.js .default */
+
 /*! export Children [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export Children [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .Children */
+
+/*! export CircleMarker [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Color [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export Component [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -26,9 +58,25 @@
 
 /*! export ContextProvider [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .ContextProvider */
 
+/*! export CrossHairCursor [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Cubehelix [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export CurrentCoordinate [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export EdgeIndicator [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export ElderRaySeries [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export Element [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export Element [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Element */
+
+/*! export EnterNode [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export FormatSpecifier [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export FormatSpecifier [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-format/src/formatSpecifier.js .FormatSpecifier */
 
 /*! export ForwardRef [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -40,17 +88,59 @@
 
 /*! export Fragment [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .Fragment */
 
+/*! export GenericChartComponent [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/GenericChartComponent.js .default */
+
+/*! export GenericComponent [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/GenericComponent.js .default */
+
+/*! export GroupTooltip [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export GroupedBarSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export HoverTooltip [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export KagiSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export Lazy [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export Lazy [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Lazy */
+
+/*! export LineSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export MACDSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export MACDTooltip [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export MOUSEENTER [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export MOUSELEAVE [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export MOUSEMOVE [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export MOUSEUP [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export Memo [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export Memo [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Memo */
 
+/*! export MouseCoordinateX [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export MouseCoordinateXV2 [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export MouseCoordinateY [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export MovingAverageTooltip [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export OHLCSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export OHLCTooltip [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export PointAndFigureSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export Portal [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export Portal [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Portal */
+
+/*! export PriceCoordinate [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export Profiler [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -62,17 +152,47 @@
 
 /*! export PureComponent [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export PureComponent [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/PureComponent.js .default */
+
 /*! export PureComponent [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .PureComponent */
+
+/*! export RSISeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export RSITooltip [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export ReactReduxContext [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export ReactReduxContext [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-redux/es/components/Context.js .ReactReduxContext */
 
+/*! export RenkoSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Rgb [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export RuleList [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export SARSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export SaveChartAsImage [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export ScatterSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Selection [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export SheetsManager [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export SheetsRegistry [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export SingleValueTooltip [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export SquareMarker [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export StackedBarSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export StochasticSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export StochasticTooltip [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export StraightLine [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export StrictMode [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -88,6 +208,30 @@
 
 /*! export Suspense [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .Suspense */
 
+/*! export TOUCHEND [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export TOUCHMOVE [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export ThemeConsumer [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Timer [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export ToolTipTSpanLabel [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export ToolTipText [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export TriangleMarker [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export TypeChooser [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export VolumeProfileSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export XAxis [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export YAxis [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export ZoomButtons [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/ZoomButtons.js .default */
+
 /*! export __DO_NOT_USE__ActionTypes [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED [provided] [no usage info] [missing usage info prevents renaming] */
@@ -102,11 +246,79 @@
 
 /*! export __esModule [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export abs [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export accumulatingWindow [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/accumulatingWindow.js .default */
+
+/*! export acos [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export addAll [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export afterMain [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export afterRead [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export afterWrite [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export alignPropType [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export applyMiddleware [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export arc [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/arc.js .default */
+
+/*! export area [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/area.js .default */
+
+/*! export areaRadial [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/areaRadial.js .default */
+
+/*! export ascending [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/ascending.js .default */
+
+/*! export asin [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export atan2 [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export auto [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export basePlacements [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export basis [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export batch [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .unstable_batchedUpdates */
 
+/*! export beforeMain [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export beforeRead [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export beforeWrite [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export bindActionCreators [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export bisect [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/bisect.js .default */
+
+/*! export bisectLeft [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export bisectLeft [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/bisect.js .bisectLeft */
+
+/*! export bisectRight [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export bisectRight [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/bisect.js .bisectRight */
+
+/*! export bisector [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/bisector.js .default */
+
+/*! export bottom [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export brighter [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export calendar [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export canAcceptRef [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export capitalizeFirst [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export clearCanvas [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export clientPoint [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/point.js .default */
+
+/*! export clippingParents [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export cloneElement [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -120,7 +332,17 @@
 
 /*! export connectAdvanced [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-redux/es/components/connectAdvanced.js .default */
 
+/*! export cool [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export copy [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export cos [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export create [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export create [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/create.js .default */
+
+/*! export createBootstrapComponent [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export createConnect [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -141,6 +363,8 @@
 /*! export createFactory [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .createFactory */
 
 /*! export createGenerateId [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export createPopper [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export createPortal [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -164,9 +388,65 @@
 
 /*! export createUnarySpacing [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export createVerticalLinearGradient [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export creator [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/creator.js .default */
+
+/*! export cross [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/cross.js .default */
+
+/*! export cubehelixLong [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export curveBasis [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/basis.js .default */
+
+/*! export curveBasisClosed [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/basisClosed.js .default */
+
+/*! export curveBasisOpen [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/basisOpen.js .default */
+
+/*! export curveBundle [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/bundle.js .default */
+
+/*! export curveCardinal [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/cardinal.js .default */
+
+/*! export curveCardinalClosed [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/cardinalClosed.js .default */
+
+/*! export curveCardinalOpen [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/cardinalOpen.js .default */
+
+/*! export curveCatmullRom [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/catmullRom.js .default */
+
+/*! export curveCatmullRomClosed [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/catmullRomClosed.js .default */
+
+/*! export curveCatmullRomOpen [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/catmullRomOpen.js .default */
+
+/*! export curveLinear [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/linear.js .default */
+
+/*! export curveLinearClosed [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/linearClosed.js .default */
+
+/*! export curveMonotoneX [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/monotone.js .monotoneX */
+
+/*! export curveMonotoneY [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/monotone.js .monotoneY */
+
+/*! export curveNatural [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/natural.js .default */
+
+/*! export curveRadialLinear [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export curveStep [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/step.js .default */
+
+/*! export curveStepAfter [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/step.js .stepAfter */
+
+/*! export curveStepBefore [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/curve/step.js .stepBefore */
+
+/*! export customEvent [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export customEvent [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/selection/on.js .customEvent */
+
+/*! export d3Window [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export dark [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export darken [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export darker [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export days [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export decomposeColor [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -174,53 +454,253 @@
 
 /*! export default [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/@material-ui/core/esm/SvgIcon/SvgIcon.js .default */
 
+/*! export defaultFormatters [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export defaultKey [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export defaultMergeProps [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export defaultScaleProvider [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export defaultX [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export defaultY [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export deg2rad [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export degrees [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export deinterpolateLinear [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export descending [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/descending.js .default */
+
+/*! export detectOverflow [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/@popperjs/core/lib/utils/detectOverflow.js .default */
+
+/*! export deviation [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/deviation.js .default */
+
+/*! export discontinuousTimeScaleProvider [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export discontinuousTimeScaleProviderBuilder [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export distanceAndSkiddingToXY [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export drawOnCanvas [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export drawOnCanvas2 [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export drawOnCanvasHelper [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export duration [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export durationDay [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export durationHour [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export durationMinute [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export durationSecond [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export durationWeek [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export easing [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export emphasize [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export end [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export entries [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-collection/src/entries.js .default */
+
+/*! export epsilon [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export event [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export event [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/selection/on.js .event */
+
+/*! export extend [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export extent [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/extent.js .default */
+
 /*! export fade [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export financeDiscontinuousScale [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export find [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export findDOMNode [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export findDOMNode [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .findDOMNode */
 
+/*! export first [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export fitDimensions [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export fitWidth [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export flushSync [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export flushSync [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .flushSync */
+
+/*! export forOwn [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export forceCenter [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-force/src/center.js .default */
+
+/*! export forceCollide [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-force/src/collide.js .default */
+
+/*! export forceLink [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-force/src/link.js .default */
+
+/*! export forceManyBody [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-force/src/manyBody.js .default */
+
+/*! export forceRadial [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-force/src/radial.js .default */
+
+/*! export forceSimulation [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-force/src/simulation.js .default */
+
+/*! export forceX [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-force/src/x.js .default */
+
+/*! export forceY [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-force/src/y.js .default */
+
+/*! export format [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export format [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-format/src/defaultLocale.js .format */
+
+/*! export formatDecimalParts [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export formatDefaultLocale [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-format/src/defaultLocale.js .default */
+
+/*! export formatLocale [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-format/src/locale.js .default */
+
+/*! export formatPrefix [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export formatPrefix [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-format/src/defaultLocale.js .formatPrefix */
+
+/*! export formatSpecifier [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-format/src/formatSpecifier.js .default */
 
 /*! export forwardRef [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export forwardRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .forwardRef */
 
+/*! export friday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export fridays [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export functor [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export gamma [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export genericArray [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getAxisCanvas [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getBars [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getBarsSVG2 [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export getBatch [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getChartConfigWithUpdatedYScales [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getChartOrigin [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getClosestItem [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getClosestItemIndexes [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getClosestItemIndexes2 [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getClosestValue [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export getContrastRatio [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export getCurrentCharts [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getCurrentItem [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getData [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export getDependsOnOwnProps [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getDimensions [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export getDynamicStyles [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export getLogger [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export getLuminance [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getMouseCanvas [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getNewChartConfig [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getStrokeDasharray [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getStrokeDasharray [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/strokeDasharray.js .getStrokeDasharray */
+
+/*! export getStrokeDasharrayCanvas [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getStrokeDasharrayCanvas [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/strokeDasharray.js .getStrokeDasharrayCanvas */
+
+/*! export getTouchProps [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getXValue [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export getYCoordinate [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export halfPi [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export handleBreakpoints [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export hasCSSTOMSupport [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export head [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export hexToRGBA [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export hexToRgb [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export histogram [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/histogram.js .default */
+
+/*! export hours [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export hsl [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export hslConvert [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export hslToRgb [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export hue [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export hydrate [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export hydrate [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .hydrate */
 
+/*! export identity [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/identity.js .default */
+
+/*! export identityStack [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export implicit [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export impureFinalPropsSelectorFactory [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export increment [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export inferno [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export interpolateCool [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/rainbow.js .cool */
+
+/*! export interpolateCubehelixDefault [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/cubehelix.js .default */
+
+/*! export interpolateInferno [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/viridis.js .inferno */
+
+/*! export interpolateMagma [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/viridis.js .magma */
+
+/*! export interpolatePlasma [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/viridis.js .plasma */
+
+/*! export interpolateRainbow [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/rainbow.js .default */
+
+/*! export interpolateViridis [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/viridis.js .default */
+
+/*! export interpolateWarm [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/rainbow.js .warm */
+
+/*! export isArray [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export isAsyncMode [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -240,6 +720,8 @@
 
 /*! export isContextProvider [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isContextProvider */
 
+/*! export isDefined [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export isElement [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export isElement [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isElement */
@@ -252,6 +734,8 @@
 
 /*! export isFragment [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isFragment */
 
+/*! export isHTMLElement [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export isLazy [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export isLazy [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isLazy */
@@ -259,6 +743,12 @@
 /*! export isMemo [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export isMemo [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isMemo */
+
+/*! export isNotDefined [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export isNumberArray [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export isObject [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export isPlainObject [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -269,6 +759,10 @@
 /*! export isProfiler [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export isProfiler [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isProfiler */
+
+/*! export isProp [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export isShadowRoot [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export isStrictMode [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -286,43 +780,357 @@
 
 /*! export isValidElementType [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .isValidElementType */
 
+/*! export isoFormat [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-time-format/src/isoFormat.js .default */
+
+/*! export isoParse [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-time-format/src/isoParse.js .default */
+
+/*! export isoSpecifier [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export keys [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export keys [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-collection/src/keys.js .default */
+
+/*! export last [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export lastVisibleItemBasedZoomAnchor [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export lazy [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export lazy [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .lazy */
 
+/*! export left [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export levelDefinition [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export light [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export lighten [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export line [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/line.js .default */
+
+/*! export lineRadial [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export lineRadial [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/lineRadial.js .default */
+
+/*! export linearish [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export linkHorizontal [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export linkHorizontal [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/link/index.js .linkHorizontal */
+
+/*! export linkRadial [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export linkRadial [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/link/index.js .linkRadial */
+
+/*! export linkVertical [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export linkVertical [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/link/index.js .linkVertical */
+
+/*! export local [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/local.js .default */
+
+/*! export magma [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export main [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export makeEventKey [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export map [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export map [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-collection/src/map.js .default */
+
+/*! export mapObject [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export mapToStyles [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export mapValue [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export mappedSlidingWindow [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/mappedSlidingWindow.js .default */
+
+/*! export matcher [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/matcher.js .default */
+
+/*! export max [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export max [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/max.js .default */
+
+/*! export mean [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/mean.js .default */
+
+/*! export median [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/median.js .default */
 
 /*! export memo [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export memo [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .memo */
 
+/*! export merge [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/merge.js .default */
+
+/*! export merge [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/merge.js .default */
+
+/*! export mergeRefs [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export milliseconds [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export min [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export min [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/min.js .default */
+
+/*! export minutes [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export modifierPhases [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export monday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export mondays [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export monotoneX [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export monotoneY [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export months [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export mouse [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/mouse.js .default */
+
+/*! export mouseBasedZoomAnchor [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export mousePosition [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export namespace [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/namespace.js .default */
+
+/*! export namespaces [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/namespaces.js .default */
+
+/*! export nest [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-collection/src/nest.js .default */
+
+/*! export noop [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/noop.js .default */
+
+/*! export now [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export onceSupported [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export optionsSupported [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export overlayColors [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export pair [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export pairs [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/pairs.js .default */
+
+/*! export path [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export permute [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/permute.js .default */
+
+/*! export pi [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export pie [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/pie.js .default */
+
+/*! export placements [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export placements [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/@popperjs/core/lib/enums.js .placements */
+
+/*! export plasma [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export plotDataLengthBarWidth [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export plotDataLengthBarWidth [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/barWidth.js .plotDataLengthBarWidth */
+
+/*! export point [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export pointRadial [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/pointRadial.js .default */
+
+/*! export polyfill [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export popper [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export popperGenerator [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export precisionFixed [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-format/src/precisionFixed.js .default */
+
+/*! export precisionPrefix [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-format/src/precisionPrefix.js .default */
+
+/*! export precisionRound [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-format/src/precisionRound.js .default */
+
 /*! export prefix [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export prefixExponent [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export pureFinalPropsSelectorFactory [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export quantile [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/quantile.js .default */
+
+/*! export rad2deg [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export radialArea [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/areaRadial.js .default */
+
+/*! export radialLine [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/lineRadial.js .default */
+
+/*! export radians [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export range [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/range.js .default */
+
+/*! export read [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export rebind [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/rebind.js .default */
+
 /*! export recomposeColor [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export reference [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export removeAll [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export render [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export render [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .render */
 
+/*! export renderSVG [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export replaceAtIndex [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export rgb [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export rgbBasis [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export rgbBasisClosed [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export rgbConvert [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export rgbToHex [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export right [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export rightDomainBasedZoomAnchor [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export root [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export rotateXY [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export saturday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export saturdays [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export scaleBand [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/band.js .default */
+
+/*! export scaleIdentity [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/identity.js .default */
+
+/*! export scaleImplicit [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/ordinal.js .implicit */
+
+/*! export scaleLinear [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/linear.js .default */
+
+/*! export scaleLog [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/log.js .default */
+
+/*! export scaleOrdinal [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/ordinal.js .default */
+
+/*! export scalePoint [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/band.js .point */
+
+/*! export scalePow [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/pow.js .default */
+
+/*! export scaleQuantile [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/quantile.js .default */
+
+/*! export scaleQuantize [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/quantize.js .default */
+
+/*! export scaleSequential [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/sequential.js .default */
+
+/*! export scaleSqrt [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/pow.js .sqrt */
+
+/*! export scaleThreshold [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/threshold.js .default */
+
+/*! export scaleTime [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/time.js .default */
+
+/*! export scaleUtc [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/utcTime.js .default */
+
+/*! export scan [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/scan.js .default */
+
+/*! export schemeCategory10 [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/category10.js .default */
+
+/*! export schemeCategory20 [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/category20.js .default */
+
+/*! export schemeCategory20b [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/category20b.js .default */
+
+/*! export schemeCategory20c [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-scale/src/category20c.js .default */
+
+/*! export seconds [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export select [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/select.js .default */
+
+/*! export selectAll [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/selectAll.js .default */
+
+/*! export selection [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/selection/index.js .default */
+
+/*! export selector [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/selector.js .default */
+
+/*! export selectorAll [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/selectorAll.js .default */
+
+/*! export set [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-collection/src/set.js .default */
+
 /*! export setBatch [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export setInterval [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export setTicker [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export shallowEqual [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-redux/es/utils/shallowEqual.js .default */
 
+/*! export shallowEqual [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/shallowEqual.js .default */
+
 /*! export sheets [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export sheetsManager [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export shuffle [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/shuffle.js .default */
+
+/*! export sign [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export sin [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export slice [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export slidingWindow [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/slidingWindow.js .default */
+
+/*! export sqrt [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export stack [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/stack.js .default */
+
+/*! export stackOffsetDiverging [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/offset/diverging.js .default */
+
+/*! export stackOffsetExpand [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/offset/expand.js .default */
+
+/*! export stackOffsetNone [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/offset/none.js .default */
+
+/*! export stackOffsetSilhouette [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/offset/silhouette.js .default */
+
+/*! export stackOffsetWiggle [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/offset/wiggle.js .default */
+
+/*! export stackOrderAppearance [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/order/appearance.js .default */
+
+/*! export stackOrderAscending [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/order/ascending.js .default */
+
+/*! export stackOrderDescending [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/order/descending.js .default */
+
+/*! export stackOrderInsideOut [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/order/insideOut.js .default */
+
+/*! export stackOrderNone [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/order/none.js .default */
+
+/*! export stackOrderReverse [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/order/reverse.js .default */
+
+/*! export start [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export stepAfter [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export stepBefore [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export strokeDashTypes [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export strokeDashTypes [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/strokeDasharray.js .strokeDashTypes */
+
+/*! export style [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/selection/style.js .styleValue */
+
+/*! export styleValue [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export styles [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export sum [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export sum [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/sum.js .default */
+
+/*! export sunday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export sundays [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export supportedKeyframes [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -330,11 +1138,115 @@
 
 /*! export supportedValue [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export svgHelper [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export symbol [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/symbol.js .default */
+
+/*! export symbolCircle [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/symbol/circle.js .default */
+
+/*! export symbolCross [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/symbol/cross.js .default */
+
+/*! export symbolDiamond [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/symbol/diamond.js .default */
+
+/*! export symbolSquare [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/symbol/square.js .default */
+
+/*! export symbolStar [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/symbol/star.js .default */
+
+/*! export symbolTriangle [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/symbol/triangle.js .default */
+
+/*! export symbolWye [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/symbol/wye.js .default */
+
+/*! export symbols [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export symbols [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/symbol.js .symbols */
+
+/*! export tail [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export tau [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export thresholdFreedmanDiaconis [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/threshold/freedmanDiaconis.js .default */
+
+/*! export thresholdScott [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/threshold/scott.js .default */
+
+/*! export thresholdSturges [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/threshold/sturges.js .default */
+
+/*! export thursday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export thursdays [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export tickIncrement [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export tickIncrement [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/ticks.js .tickIncrement */
+
+/*! export tickStep [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export tickStep [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/ticks.js .tickStep */
+
+/*! export ticks [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/ticks.js .default */
+
+/*! export timeFormat [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export timeFormat [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-time-format/src/defaultLocale.js .timeFormat */
+
+/*! export timeFormatDefaultLocale [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-time-format/src/defaultLocale.js .default */
+
+/*! export timeFormatLocale [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-time-format/src/locale.js .default */
+
+/*! export timeIntervalBarWidth [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export timeIntervalBarWidth [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/barWidth.js .timeIntervalBarWidth */
+
+/*! export timeParse [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export timeParse [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-time-format/src/defaultLocale.js .timeParse */
+
+/*! export timer [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export timerFlush [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export toCssValue [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export toModifierArray [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export toModifierMap [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export toObject [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export top [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export touch [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/touch.js .default */
+
+/*! export touchPosition [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export touches [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/touches.js .default */
+
+/*! export transpose [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/transpose.js .default */
+
+/*! export tsvFormat [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export tsvFormatBody [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export tsvFormatRow [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export tsvFormatRows [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export tsvFormatValue [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export tsvParse [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export tsvParseRows [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export tuesday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export tuesdays [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export typeOf [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export typeOf [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .typeOf */
+
+/*! export uncontrollable [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/uncontrollable/esm/uncontrollable.js .default */
+
+/*! export uncontrolledPropTypes [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export unmountComponentAtNode [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -430,6 +1342,8 @@
 
 /*! export unstable_wrapCallback [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/scheduler/cjs/scheduler.production.min.js .unstable_wrapCallback */
 
+/*! export useBootstrapPrefix [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export useCallback [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export useCallback [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useCallback */
@@ -445,6 +1359,10 @@
 /*! export useDispatch [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export useDispatch [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-redux/es/hooks/useDispatch.js .useDispatch */
+
+/*! export useDropdownMenu [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export useDropdownToggle [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export useEffect [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -486,11 +1404,77 @@
 
 /*! export useStore [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-redux/es/hooks/useStore.js .useStore */
 
+/*! export useUncontrolled [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/uncontrollable/esm/hook.js .default */
+
+/*! export useUncontrolledProp [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export useUncontrolledProp [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/uncontrollable/esm/hook.js .useUncontrolledProp */
+
+/*! export utcDays [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcFormat [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcFormat [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-time-format/src/defaultLocale.js .utcFormat */
+
+/*! export utcFriday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcFridays [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcHours [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcMinutes [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcMonday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcMondays [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcMonths [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcParse [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcParse [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-time-format/src/defaultLocale.js .utcParse */
+
+/*! export utcSaturday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcSaturdays [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcSunday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcSundays [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcThursday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcThursdays [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcTuesday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcTuesdays [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcWednesday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcWednesdays [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export utcYears [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export values [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-collection/src/values.js .default */
+
+/*! export variance [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/variance.js .default */
+
+/*! export variationPlacements [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export version [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export version [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-dom/cjs/react-dom.production.min.js .version */
 
 /*! export version [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .version */
+
+/*! export viewport [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export warm [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export wednesday [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export wednesdays [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export whenMapDispatchToPropsIsFunction [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -506,11 +1490,29 @@
 
 /*! export whenMergePropsIsOmitted [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export window [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/window.js .default */
+
 /*! export wrapMapToPropsConstant [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export wrapMapToPropsFunc [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export wrapMergePropsFunc [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export write [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export x [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export xhtml [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export y [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export years [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export yes [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export zip [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/zip.js .default */
+
+/*! export zipper [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/zipper.js .default */
 
 /*! exports [not provided] [no usage info] */
 
@@ -526,7 +1528,11 @@
 
 /*! runtime requirements: __webpack_exports__, __webpack_require__ */
 
+/*! runtime requirements: __webpack_exports__, __webpack_require__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+
 /*! runtime requirements: __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+
+/*! runtime requirements: __webpack_exports__, module */
 
 /*! runtime requirements: __webpack_require__, __webpack_exports__, __webpack_require__.d, __webpack_require__.r, __webpack_require__.* */
 
@@ -546,7 +1552,11 @@
 
 /*! runtime requirements: module */
 
+/*! runtime requirements: module, __webpack_exports__ */
+
 /*! runtime requirements: module, __webpack_require__ */
+
+/*! runtime requirements: module, __webpack_require__.g, __webpack_require__.* */
 
 /*! unknown exports (runtime-defined) */
 
@@ -557,6 +1567,14 @@
 /*!**********************!*\
   !*** ./src/index.js ***!
   \**********************/
+
+/*!****************************!*\
+  !*** ./src/chart/Chart.js ***!
+  \****************************/
+
+/*!****************************!*\
+  !*** ./src/chart/utils.js ***!
+  \****************************/
 
 /*!*****************************!*\
   !*** ./src/redux/action.js ***!
@@ -595,8 +1613,32 @@
   \*************************************/
 
 /*!***************************************!*\
+  !*** ./src/chart/CandlestickChart.js ***!
+  \***************************************/
+
+/*!***************************************!*\
   !*** ./src/components/TickerInput.js ***!
   \***************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/d3-dsv/src/dsv.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/d3-dsv/src/tsv.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/d3-force/src/x.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/d3-force/src/y.js ***!
+  \****************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/d3-scale/index.js ***!
+  \****************************************/
 
 /*!****************************************!*\
   !*** ./node_modules/react-is/index.js ***!
@@ -619,6 +1661,10 @@
   \*****************************************/
 
 /*!*****************************************!*\
+  !*** ./node_modules/d3-time/src/day.js ***!
+  \*****************************************/
+
+/*!*****************************************!*\
   !*** ./node_modules/react-dom/index.js ***!
   \*****************************************/
 
@@ -626,8 +1672,68 @@
   !*** ./node_modules/scheduler/index.js ***!
   \*****************************************/
 
+/*!*****************************************!*\
+  !*** ./node_modules/warning/warning.js ***!
+  \*****************************************/
+
+/*!*****************************************!*\
+  !*** ./src/components/IntervalInput.js ***!
+  \*****************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/classnames/index.js ***!
+  \******************************************/
+
 /*!******************************************!*\
   !*** ./node_modules/clsx/dist/clsx.m.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/d3-array/src/max.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/d3-array/src/min.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/d3-array/src/sum.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/d3-array/src/zip.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/d3-path/src/path.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/d3-scale/src/log.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/d3-scale/src/pow.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/d3-shape/src/arc.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/d3-shape/src/pie.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/d3-time/src/hour.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/d3-time/src/week.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/d3-time/src/year.js ***!
   \******************************************/
 
 /*!******************************************!*\
@@ -638,9 +1744,209 @@
   !*** ./node_modules/prop-types/index.js ***!
   \******************************************/
 
+/*!*******************************************!*\
+  !*** ./node_modules/d3-array/src/mean.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/d3-array/src/scan.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/d3-color/src/math.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/d3-force/src/link.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/d3-quadtree/src/x.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/d3-quadtree/src/y.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/d3-scale/src/band.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/d3-scale/src/nice.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/d3-scale/src/time.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/d3-shape/src/area.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/d3-shape/src/line.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/d3-shape/src/math.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/d3-shape/src/noop.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/d3-time/src/month.js ***!
+  \*******************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/invariant/browser.js ***!
+  \*******************************************/
+
 /*!********************************************!*\
   !*** ./node_modules/axios/lib/defaults.js ***!
   \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-array/src/array.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-array/src/cross.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-array/src/index.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-array/src/merge.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-array/src/pairs.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-array/src/range.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-array/src/ticks.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-color/src/color.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-force/src/index.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-scale/src/array.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-shape/src/array.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-shape/src/index.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-shape/src/point.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-shape/src/stack.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-time/src/minute.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-time/src/second.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-time/src/utcDay.js ***!
+  \********************************************/
+
+/*!********************************************!*\
+  !*** ./node_modules/d3-timer/src/timer.js ***!
+  \********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-array/src/bisect.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-array/src/extent.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-array/src/median.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-array/src/number.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-color/src/define.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-force/src/center.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-force/src/jiggle.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-force/src/radial.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-format/src/index.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-quadtree/src/add.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-scale/src/colors.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-scale/src/linear.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-scale/src/number.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-shape/src/symbol.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-time/src/utcHour.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-time/src/utcWeek.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/d3-time/src/utcYear.js ***!
+  \*********************************************/
 
 /*!*********************************************!*\
   !*** ./node_modules/object-assign/index.js ***!
@@ -651,11 +1957,147 @@
   \**********************************************/
 
 /*!**********************************************!*\
+  !*** ./node_modules/d3-array/src/permute.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-array/src/shuffle.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-force/src/collide.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-format/src/locale.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-quadtree/src/data.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-quadtree/src/find.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-quadtree/src/quad.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-quadtree/src/root.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-quadtree/src/size.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-scale/src/ordinal.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-scale/src/rainbow.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-scale/src/utcTime.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-scale/src/viridis.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-time/src/duration.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-time/src/interval.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/d3-time/src/utcMonth.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
   !*** ./node_modules/react-redux/es/index.js ***!
   \**********************************************/
 
 /*!***********************************************!*\
   !*** ./node_modules/axios/lib/core/settle.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-array/src/bisector.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-array/src/constant.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-array/src/identity.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-array/src/quantile.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-array/src/variance.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-collection/src/map.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-collection/src/set.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-force/src/constant.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-force/src/manyBody.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-quadtree/src/cover.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-quadtree/src/visit.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-scale/src/constant.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-scale/src/identity.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-scale/src/quantile.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-scale/src/quantize.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-shape/src/constant.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-shape/src/identity.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./node_modules/d3-time/src/utcMinute.js ***!
   \***********************************************/
 
 /*!************************************************!*\
@@ -666,6 +2108,86 @@
   !*** ./node_modules/axios/lib/helpers/bind.js ***!
   \************************************************/
 
+/*!************************************************!*\
+  !*** ./node_modules/d3-array/src/ascending.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-array/src/deviation.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-array/src/histogram.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-array/src/transpose.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-collection/src/keys.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-collection/src/nest.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-color/src/cubehelix.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-format/src/exponent.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-format/src/identity.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/rgb.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-quadtree/src/extent.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-quadtree/src/remove.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-scale/src/cubehelix.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-scale/src/threshold.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-selection/src/index.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-selection/src/local.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-selection/src/mouse.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-selection/src/point.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/d3-selection/src/touch.js ***!
+  \************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/listen.js ***!
+  \************************************************/
+
 /*!*************************************************!*\
   !*** ./node_modules/@material-ui/icons/Menu.js ***!
   \*************************************************/
@@ -674,8 +2196,200 @@
   !*** ./node_modules/axios/lib/cancel/Cancel.js ***!
   \*************************************************/
 
+/*!*************************************************!*\
+  !*** ./node_modules/d3-array/src/descending.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-collection/src/index.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-force/src/simulation.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/date.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-scale/src/category10.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-scale/src/category20.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-scale/src/continuous.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-scale/src/sequential.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-scale/src/tickFormat.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-selection/src/create.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-selection/src/select.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-selection/src/window.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-shape/src/areaRadial.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/step.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-shape/src/descending.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-shape/src/lineRadial.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-shape/src/link/index.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-shape/src/order/none.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-shape/src/symbol/wye.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/d3-time/src/millisecond.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/matches.js ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/uncontrollable/esm/hook.js ***!
+  \*************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/enums.js ***!
+  \**************************************************/
+
 /*!**************************************************!*\
   !*** ./node_modules/axios/lib/helpers/spread.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-collection/src/values.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-dispatch/src/dispatch.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-format/src/formatTrim.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/array.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/basis.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/color.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/round.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/value.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-quadtree/src/quadtree.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-scale/src/category20b.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-scale/src/category20c.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-selection/src/creator.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-selection/src/matcher.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-selection/src/touches.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/basis.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-shape/src/offset/none.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-shape/src/pointRadial.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-shape/src/symbol/star.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/d3-time-format/src/index.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/camelize.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/contains.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/hasClass.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/lodash.flattendeep/index.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/uncontrollable/esm/index.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/uncontrollable/esm/utils.js ***!
   \**************************************************/
 
 /*!***************************************************!*\
@@ -687,7 +2401,67 @@
   \***************************************************/
 
 /*!***************************************************!*\
+  !*** ./node_modules/d3-collection/src/entries.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/d3-format/src/formatGroup.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/d3-format/src/formatTypes.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/number.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/object.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/string.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/d3-selection/src/constant.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/d3-selection/src/selector.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/bundle.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/linear.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/radial.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/d3-shape/src/symbol/cross.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/d3-time-format/src/locale.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/canUseDOM.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
   !*** ./node_modules/is-in-browser/dist/module.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/react-overlays/esm/popper.js ***!
   \***************************************************/
 
 /*!****************************************************!*\
@@ -703,11 +2477,55 @@
   \****************************************************/
 
 /*!****************************************************!*\
+  !*** ./node_modules/d3-quadtree/src/visitAfter.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/d3-selection/src/namespace.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/d3-selection/src/selectAll.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/natural.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/d3-shape/src/offset/expand.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/d3-shape/src/offset/wiggle.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/d3-shape/src/order/reverse.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/d3-shape/src/symbol/circle.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/d3-shape/src/symbol/square.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
   !*** ./node_modules/hyphenate-style-name/index.js ***!
   \****************************************************/
 
 /*!****************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/Button.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
   !*** ./node_modules/react-redux/es/utils/batch.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/index.js ***!
   \****************************************************/
 
 /*!****************************************************!*\
@@ -716,6 +2534,46 @@
 
 /*!*****************************************************!*\
   !*** ./node_modules/axios/lib/core/enhanceError.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/d3-format/src/defaultLocale.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/d3-format/src/formatDecimal.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/d3-format/src/formatRounded.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/constant.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/d3-selection/src/namespaces.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/cardinal.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/monotone.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/d3-shape/src/symbol/diamond.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/d3-time-format/src/isoParse.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/react-overlays/esm/Dropdown.js ***!
   \*****************************************************/
 
 /*!******************************************************!*\
@@ -731,6 +2589,62 @@
   \******************************************************/
 
 /*!******************************************************!*\
+  !*** ./node_modules/d3-array/src/threshold/scott.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/d3-format/src/formatNumerals.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/d3-format/src/precisionFixed.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/d3-format/src/precisionRound.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/cubehelix.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/d3-selection/src/selectorAll.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/d3-selection/src/sourceEvent.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/basisOpen.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/d3-shape/src/order/ascending.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/d3-shape/src/order/insideOut.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/d3-shape/src/symbol/triangle.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/d3-time-format/src/isoFormat.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/Dropdown.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./node_modules/react-overlays/esm/usePopper.js ***!
+  \******************************************************/
+
+/*!******************************************************!*\
   !*** ./node_modules/react-redux/es/utils/warning.js ***!
   \******************************************************/
 
@@ -739,7 +2653,43 @@
   \*******************************************************/
 
 /*!*******************************************************!*\
+  !*** ./node_modules/@restart/hooks/esm/useMounted.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
   !*** ./node_modules/axios/lib/helpers/combineURLs.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/d3-format/src/formatSpecifier.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/d3-format/src/precisionPrefix.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/on.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/catmullRom.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/d3-shape/src/offset/diverging.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/d3-shape/src/order/appearance.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/d3-shape/src/order/descending.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/ownerDocument.js ***!
   \*******************************************************/
 
 /*!*******************************************************!*\
@@ -755,6 +2705,10 @@
   \********************************************************/
 
 /*!********************************************************!*\
+  !*** ./node_modules/@restart/hooks/esm/usePrevious.js ***!
+  \********************************************************/
+
+/*!********************************************************!*\
   !*** ./node_modules/axios/lib/core/dispatchRequest.js ***!
   \********************************************************/
 
@@ -767,7 +2721,43 @@
   \********************************************************/
 
 /*!********************************************************!*\
+  !*** ./node_modules/d3-array/src/threshold/sturges.js ***!
+  \********************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/d3-format/src/formatPrefixAuto.js ***!
+  \********************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/basisClosed.js ***!
+  \********************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/d3-interpolate/src/numberArray.js ***!
+  \********************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/basisClosed.js ***!
+  \********************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/d3-shape/src/offset/silhouette.js ***!
+  \********************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/NavContext.js ***!
+  \********************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/SafeAnchor.js ***!
+  \********************************************************/
+
+/*!********************************************************!*\
   !*** ./node_modules/react-redux/es/connect/connect.js ***!
+  \********************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/Chart.js ***!
   \********************************************************/
 
 /*!********************************************************!*\
@@ -783,7 +2773,83 @@
   \*********************************************************/
 
 /*!*********************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/createPopper.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/within.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/@restart/hooks/esm/useSafeState.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
   !*** ./node_modules/axios/lib/helpers/isAbsoluteURL.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/attr.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/call.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/data.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/each.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/exit.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/html.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/join.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/node.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/size.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/sort.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/text.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/cardinalOpen.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/linearClosed.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/react-overlays/esm/DropdownMenu.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/react-overlays/esm/useRootClose.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/axes/Axis.js ***!
   \*********************************************************/
 
 /*!**********************************************************!*\
@@ -795,11 +2861,103 @@
   \**********************************************************/
 
 /*!**********************************************************!*\
+  !*** ./node_modules/@restart/hooks/esm/useMergedRefs.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/clone.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/datum.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/empty.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/enter.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/index.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/lower.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/merge.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/nodes.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/order.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/raise.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/style.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/d3-time-format/src/defaultLocale.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/addEventListener.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/querySelectorAll.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/DropdownItem.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/DropdownMenu.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/react-overlays/esm/ownerDocument.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
   !*** ./node_modules/react-redux/es/hooks/useDispatch.js ***!
   \**********************************************************/
 
 /*!**********************************************************!*\
   !*** ./node_modules/react-redux/es/hooks/useSelector.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/axes/XAxis.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/axes/YAxis.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/axes/index.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/utils/noop.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/save-svg-as-png/lib/saveSvgAsPng.js ***!
   \**********************************************************/
 
 /*!***********************************************************!*\
@@ -819,11 +2977,75 @@
   \***********************************************************/
 
 /*!***********************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/modifiers/flip.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/modifiers/hide.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/debounce.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/@restart/hooks/esm/useCallbackRef.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/@restart/hooks/esm/useForceUpdate.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
   !*** ./node_modules/axios/lib/core/InterceptorManager.js ***!
   \***********************************************************/
 
 /*!***********************************************************!*\
   !*** ./node_modules/axios/lib/helpers/isURLSameOrigin.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/append.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/filter.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/insert.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/remove.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/select.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/sparse.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/cardinalClosed.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/catmullRomOpen.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/NavbarContext.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/ThemeProvider.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/react-overlays/esm/DropdownToggle.js ***!
   \***********************************************************/
 
 /*!***********************************************************!*\
@@ -842,6 +3064,22 @@
   !*** ./node_modules/react-redux/es/utils/shallowEqual.js ***!
   \***********************************************************/
 
+/*!***********************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/scale/index.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/utils/index.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/utils/merge.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/uncontrollable/esm/uncontrollable.js ***!
+  \***********************************************************/
+
 /*!************************************************************!*\
   !*** ./node_modules/@babel/runtime/helpers/esm/extends.js ***!
   \************************************************************/
@@ -855,11 +3093,55 @@
   \************************************************************/
 
 /*!************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/modifiers/arrow.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/@restart/hooks/esm/useCommittedRef.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/classed.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/DropdownToggle.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/react-overlays/esm/DropdownContext.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/react-overlays/esm/safeFindDOMNode.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
   !*** ./node_modules/react-redux/es/components/Provider.js ***!
   \************************************************************/
 
 /*!************************************************************!*\
   !*** ./node_modules/react-redux/es/utils/isPlainObject.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/helper/index.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/scale/levels.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/index.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/utils/rebind.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/utils/zipper.js ***!
   \************************************************************/
 
 /*!************************************************************!*\
@@ -891,6 +3173,34 @@
   \*************************************************************/
 
 /*!*************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/modifiers/offset.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/getAltAxis.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/@restart/hooks/esm/useEventCallback.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/dispatch.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/property.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/d3-shape/src/curve/catmullRomClosed.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/removeEventListener.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
   !*** ./node_modules/prop-types/factoryWithThrowingShims.js ***!
   \*************************************************************/
 
@@ -898,8 +3208,24 @@
   !*** ./node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
   \*************************************************************/
 
+/*!*************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/noop.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/tooltip/index.js ***!
+  \*************************************************************/
+
 /*!**************************************************************!*\
   !*** ./node_modules/@material-ui/core/esm/styles/shadows.js ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/mergeByName.js ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./node_modules/d3-selection/src/selection/selectAll.js ***!
   \**************************************************************/
 
 /*!**************************************************************!*\
@@ -910,8 +3236,40 @@
   !*** ./node_modules/react-redux/es/hooks/useReduxContext.js ***!
   \**************************************************************/
 
+/*!**************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/ChartCanvas.js ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/ZoomButtons.js ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/index.js ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/merge.js ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/utils/barWidth.js ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/utils/identity.js ***!
+  \**************************************************************/
+
 /*!***************************************************************!*\
   !*** ./node_modules/@material-ui/core/esm/SvgIcon/SvgIcon.js ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/contains.js ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/getVariation.js ***!
   \***************************************************************/
 
 /*!***************************************************************!*\
@@ -919,7 +3277,27 @@
   \***************************************************************/
 
 /*!***************************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/SelectableContext.js ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
   !*** ./node_modules/react-redux/es/connect/wrapMapToProps.js ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/EventCapture.js ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/rebind.js ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/zipper.js ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/helper/fitWidth.js ***!
   \***************************************************************/
 
 /*!****************************************************************!*\
@@ -932,6 +3310,18 @@
 
 /*!****************************************************************!*\
   !*** ./node_modules/@material-ui/icons/utils/createSvgIcon.js ***!
+  \****************************************************************/
+
+/*!****************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getWindow.js ***!
+  \****************************************************************/
+
+/*!****************************************************************!*\
+  !*** ./node_modules/prop-types-extra/lib/isRequiredForA11y.js ***!
+  \****************************************************************/
+
+/*!****************************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/createWithBsPrefix.js ***!
   \****************************************************************/
 
 /*!****************************************************************!*\
@@ -951,11 +3341,83 @@
   \****************************************************************/
 
 /*!****************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/GenericComponent.js ***!
+  \****************************************************************/
+
+/*!****************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/BarSeries.js ***!
+  \****************************************************************/
+
+/*!****************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/RSISeries.js ***!
+  \****************************************************************/
+
+/*!****************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/SARSeries.js ***!
+  \****************************************************************/
+
+/*!****************************************************************!*\
   !*** ./node_modules/scheduler/cjs/scheduler.production.min.js ***!
   \****************************************************************/
 
 /*!*****************************************************************!*\
   !*** ./node_modules/@material-ui/core/esm/styles/withStyles.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/instanceOf.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/computeOffsets.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/detectOverflow.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/orderModifiers.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/d3-array/src/threshold/freedmanDiaconis.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/BackgroundText.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/barWidth.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/identity.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/coordinates/index.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/AreaSeries.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/KagiSeries.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/LineSeries.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/MACDSeries.js ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/OHLCSeries.js ***!
   \*****************************************************************/
 
 /*!******************************************************************!*\
@@ -971,7 +3433,39 @@
   \******************************************************************/
 
 /*!******************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getNodeName.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/expandToHashMap.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
   !*** ./node_modules/react-redux/es/utils/reactBatchedUpdates.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/CanvasContainer.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/scale/evaluator.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/helper/TypeChooser.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/RenkoSeries.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/tooltip/RSITooltip.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/utils/shallowEqual.js ***!
   \******************************************************************/
 
 /*!*******************************************************************!*\
@@ -995,6 +3489,18 @@
   \*******************************************************************/
 
 /*!*******************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/getBasePlacement.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/rectToClientRect.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/createChainedFunction.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
   !*** ./node_modules/react-redux/es/components/connectAdvanced.js ***!
   \*******************************************************************/
 
@@ -1004,6 +3510,46 @@
 
 /*!*******************************************************************!*\
   !*** ./node_modules/react-redux/es/connect/verifySubselectors.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/GenericComponent.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/CircleMarker.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/SVGComponent.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/SquareMarker.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/StraightLine.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/tooltip/MACDTooltip.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/tooltip/OHLCTooltip.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/tooltip/ToolTipText.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/utils/PureComponent.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/utils/slidingWindow.js ***!
   \*******************************************************************/
 
 /*!********************************************************************!*\
@@ -1022,6 +3568,46 @@
   !*** ./node_modules/@material-ui/core/esm/styles/createSpacing.js ***!
   \********************************************************************/
 
+/*!********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getLayoutRect.js ***!
+  \********************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getNodeScroll.js ***!
+  \********************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getParentNode.js ***!
+  \********************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/modifiers/computeStyles.js ***!
+  \********************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/modifiers/popperOffsets.js ***!
+  \********************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/axes/AxisZoomCapture.js ***!
+  \********************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/helper/fitDimensions.js ***!
+  \********************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/ScatterSeries.js ***!
+  \********************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/tooltip/GroupTooltip.js ***!
+  \********************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/tooltip/HoverTooltip.js ***!
+  \********************************************************************/
+
 /*!*********************************************************************!*\
   !*** ./node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js ***!
   \*********************************************************************/
@@ -1032,6 +3618,54 @@
 
 /*!*********************************************************************!*\
   !*** ./node_modules/@material-ui/styles/esm/jssPreset/jssPreset.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/isScrollParent.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/isTableElement.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/modifiers/eventListeners.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/getFreshSideObject.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/mergePaddingObject.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/shallowEqual.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/zoomBehavior.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/GenericChartComponent.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/AreaOnlySeries.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/ElderRaySeries.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/TriangleMarker.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/utils/strokeDasharray.js ***!
   \*********************************************************************/
 
 /*!**********************************************************************!*\
@@ -1059,11 +3693,63 @@
   \**********************************************************************/
 
 /*!**********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getClippingRect.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getDocumentRect.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getOffsetParent.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getScrollParent.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getViewportRect.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getWindowScroll.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/modifiers/preventOverflow.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
   !*** ./node_modules/jss-plugin-global/dist/jss-plugin-global.esm.js ***!
   \**********************************************************************/
 
 /*!**********************************************************************!*\
   !*** ./node_modules/jss-plugin-nested/dist/jss-plugin-nested.esm.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/usePopperMarginModifiers.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/useWrappedRefWithWarning.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/ChartDataUtil.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/PureComponent.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/slidingWindow.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/BollingerSeries.js ***!
   \**********************************************************************/
 
 /*!***********************************************************************!*\
@@ -1086,12 +3772,72 @@
   !*** ./node_modules/@material-ui/styles/esm/withStyles/withStyles.js ***!
   \***********************************************************************/
 
+/*!***********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getCompositeRect.js ***!
+  \***********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getComputedStyle.js ***!
+  \***********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/computeAutoPlacement.js ***!
+  \***********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/getOppositePlacement.js ***!
+  \***********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/helper/SaveChartAsImage.js ***!
+  \***********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/GroupedBarSeries.js ***!
+  \***********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/OverlayBarSeries.js ***!
+  \***********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/StackedBarSeries.js ***!
+  \***********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/StochasticSeries.js ***!
+  \***********************************************************************/
+
 /*!************************************************************************!*\
   !*** ./node_modules/@material-ui/core/esm/styles/createBreakpoints.js ***!
   \************************************************************************/
 
 /*!************************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/listScrollParents.js ***!
+  \************************************************************************/
+
+/*!************************************************************************!*\
   !*** ./node_modules/react-redux/es/utils/useIsomorphicLayoutEffect.js ***!
+  \************************************************************************/
+
+/*!************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/GenericChartComponent.js ***!
+  \************************************************************************/
+
+/*!************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/strokeDasharray.js ***!
+  \************************************************************************/
+
+/*!************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/CandlestickSeries.js ***!
+  \************************************************************************/
+
+/*!************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/tooltip/displayValuesFor.js ***!
+  \************************************************************************/
+
+/*!************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/utils/accumulatingWindow.js ***!
   \************************************************************************/
 
 /*!*************************************************************************!*\
@@ -1102,6 +3848,30 @@
   !*** ./node_modules/@material-ui/styles/esm/makeStyles/indexCounter.js ***!
   \*************************************************************************/
 
+/*!*************************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getDocumentElement.js ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./node_modules/react-overlays/esm/mergeOptionsWithPopperConfig.js ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/coordinates/EdgeIndicator.js ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/tooltip/StochasticTooltip.js ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/tooltip/ToolTipTSpanLabel.js ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/utils/mappedSlidingWindow.js ***!
+  \*************************************************************************/
+
 /*!**************************************************************************!*\
   !*** ./node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js ***!
   \**************************************************************************/
@@ -1110,8 +3880,44 @@
   !*** ./node_modules/@material-ui/styles/esm/makeStyles/multiKeyStore.js ***!
   \**************************************************************************/
 
+/*!**************************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getWindowScrollBarX.js ***!
+  \**************************************************************************/
+
+/*!**************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/VolumeProfileSeries.js ***!
+  \**************************************************************************/
+
+/*!**************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/tooltip/SingleValueTooltip.js ***!
+  \**************************************************************************/
+
 /*!***************************************************************************!*\
   !*** ./node_modules/@material-ui/styles/esm/mergeClasses/mergeClasses.js ***!
+  \***************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getHTMLElementScroll.js ***!
+  \***************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/getMainAxisFromPlacement.js ***!
+  \***************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/accumulatingWindow.js ***!
+  \***************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/coordinates/CrossHairCursor.js ***!
+  \***************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/coordinates/PriceCoordinate.js ***!
+  \***************************************************************************/
+
+/*!***************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/PointAndFigureSeries.js ***!
   \***************************************************************************/
 
 /*!****************************************************************************!*\
@@ -1122,8 +3928,44 @@
   !*** ./node_modules/@material-ui/styles/esm/getStylesCreator/noopTheme.js ***!
   \****************************************************************************/
 
+/*!****************************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/dom-utils/getBoundingClientRect.js ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/es/lib/utils/mappedSlidingWindow.js ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/coordinates/EdgeCoordinateV3.js ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/coordinates/MouseCoordinateX.js ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/coordinates/MouseCoordinateY.js ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/tooltip/BollingerBandTooltip.js ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/tooltip/MovingAverageTooltip.js ***!
+  \****************************************************************************/
+
 /*!*****************************************************************************!*\
   !*** ./node_modules/@material-ui/styles/esm/getThemeProps/getThemeProps.js ***!
+  \*****************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/coordinates/CurrentCoordinate.js ***!
   \*****************************************************************************/
 
 /*!******************************************************************************!*\
@@ -1134,6 +3976,10 @@
   !*** ./node_modules/jss-plugin-props-sort/dist/jss-plugin-props-sort.esm.js ***!
   \******************************************************************************/
 
+/*!******************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/coordinates/MouseCoordinateXV2.js ***!
+  \******************************************************************************/
+
 /*!*******************************************************************************!*\
   !*** ./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js ***!
   \*******************************************************************************/
@@ -1141,6 +3987,18 @@
 /*!*******************************************************************************!*\
   !*** ./node_modules/@material-ui/styles/esm/StylesProvider/StylesProvider.js ***!
   \*******************************************************************************/
+
+/*!*******************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/scale/financeDiscontinuousScale.js ***!
+  \*******************************************************************************/
+
+/*!********************************************************************************!*\
+  !*** ./node_modules/@popperjs/core/lib/utils/getOppositeVariationPlacement.js ***!
+  \********************************************************************************/
+
+/*!********************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/series/AlternatingFillAreaSeries.js ***!
+  \********************************************************************************/
 
 /*!*********************************************************************************!*\
   !*** ./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js ***!
@@ -1157,6 +4015,10 @@
 /*!***********************************************************************************!*\
   !*** ./node_modules/@material-ui/styles/esm/getStylesCreator/getStylesCreator.js ***!
   \***********************************************************************************/
+
+/*!************************************************************************************!*\
+  !*** ./node_modules/react-stockcharts/lib/scale/discontinuousTimeScaleProvider.js ***!
+  \************************************************************************************/
 
 /*!****************************************************************************************!*\
   !*** ./node_modules/jss-plugin-vendor-prefixer/dist/jss-plugin-vendor-prefixer.esm.js ***!
