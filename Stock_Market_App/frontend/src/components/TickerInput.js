@@ -16,8 +16,8 @@ function TickerInput() {
         if (!localStorage.getItem("tickers").includes(inputText)){
             let localTicker = JSON.parse(localStorage.getItem("tickers"));
             localTicker = [inputText, ...localTicker];
-            let request = {"tickers": localTicker}
-            axios.post('/api/multi/', request)
+            let request = {"tickers": localTicker, "market": "current"}
+            axios.post('/api/', request)
                 .then(res => {
                     localStorage.setItem("tickers", JSON.stringify(localTicker))
                     dispatch(setTicker(inputText));

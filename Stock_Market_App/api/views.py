@@ -3,6 +3,7 @@ from rest_framework.response import Response
 from .serializers import TickerSerializer
 from django.http import HttpResponse
 from .ticker import fetch_market
+import numpy as np
 
 # Getting multi ticker market value and pct
 class TickerView(views.APIView):
@@ -14,7 +15,8 @@ class TickerView(views.APIView):
 
         market = request_data['market']
         period = '1y'
-       
+        if market == 'current':
+            period = '5d'
         interval = '1d'
         
         df = fetch_market(tickers, period,interval)
@@ -40,6 +42,7 @@ class TickerView(views.APIView):
 
             results = TickerSerializer(data).data
         else:
+            df['Date'] = df['Date'].dt.date
             data_format = request_data['data_format']
             data = None
             if data_format == "v1":

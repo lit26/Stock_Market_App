@@ -614,8 +614,6 @@
 
 /*! export getCurrentItem [provided] [no usage info] [missing usage info prevents renaming] */
 
-/*! export getData [provided] [no usage info] [missing usage info prevents renaming] */
-
 /*! export getDependsOnOwnProps [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export getDimensions [provided] [no usage info] [missing usage info prevents renaming] */
@@ -1222,20 +1220,6 @@
 
 /*! export transpose [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/transpose.js .default */
 
-/*! export tsvFormat [provided] [no usage info] [missing usage info prevents renaming] */
-
-/*! export tsvFormatBody [provided] [no usage info] [missing usage info prevents renaming] */
-
-/*! export tsvFormatRow [provided] [no usage info] [missing usage info prevents renaming] */
-
-/*! export tsvFormatRows [provided] [no usage info] [missing usage info prevents renaming] */
-
-/*! export tsvFormatValue [provided] [no usage info] [missing usage info prevents renaming] */
-
-/*! export tsvParse [provided] [no usage info] [missing usage info prevents renaming] */
-
-/*! export tsvParseRows [provided] [no usage info] [missing usage info prevents renaming] */
-
 /*! export tuesday [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export tuesdays [provided] [no usage info] [missing usage info prevents renaming] */
@@ -1572,10 +1556,6 @@
   !*** ./src/chart/Chart.js ***!
   \****************************/
 
-/*!****************************!*\
-  !*** ./src/chart/utils.js ***!
-  \****************************/
-
 /*!*****************************!*\
   !*** ./src/redux/action.js ***!
   \*****************************/
@@ -1613,20 +1593,8 @@
   \*************************************/
 
 /*!***************************************!*\
-  !*** ./src/chart/CandlestickChart.js ***!
-  \***************************************/
-
-/*!***************************************!*\
   !*** ./src/components/TickerInput.js ***!
   \***************************************/
-
-/*!****************************************!*\
-  !*** ./node_modules/d3-dsv/src/dsv.js ***!
-  \****************************************/
-
-/*!****************************************!*\
-  !*** ./node_modules/d3-dsv/src/tsv.js ***!
-  \****************************************/
 
 /*!****************************************!*\
   !*** ./node_modules/d3-force/src/x.js ***!
