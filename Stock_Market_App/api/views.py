@@ -17,7 +17,7 @@ class TickerView(views.APIView):
         period = '1y'
         if market == 'current':
             period = '5d'
-        interval = '1d'
+        interval = request_data['interval']
         
         df = fetch_market(tickers, period,interval)
 
@@ -66,6 +66,7 @@ class TickerView(views.APIView):
                     }
                 }
             else:
+                df = df.fillna('')
                 data_date = df['Date'].values
                 data_open = df['Open'].values
                 data_high = df['High'].values

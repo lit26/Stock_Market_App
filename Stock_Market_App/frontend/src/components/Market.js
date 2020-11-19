@@ -20,7 +20,9 @@ function Market() {
         }
 
         // request from api
-        let request = {"tickers": tickers, "market": "current"}
+        let request = {"tickers": tickers,
+                        "interval": "1d", 
+                        "market": "current"}
         axios.post('/api/', request)
             .then(res => {
                 let tickers = res.data.metadata.tickers

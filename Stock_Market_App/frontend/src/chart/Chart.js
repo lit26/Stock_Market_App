@@ -55,7 +55,7 @@ class CandleStickChartWithCHMousePointer extends React.Component {
 				displayXAccessor={displayXAccessor}
 				xExtents={xExtents}
 			>
-				<Chart id={1} yExtents={[d => [d.high, d.low]]}>
+				<Chart id={1} yExtents={[d => [d.high*1.1, d.low*0.9]]}>
 					<XAxis axisAt="bottom" orient="bottom" tickStroke="#FFFFFF" {...xGrid}/>
 					<YAxis axisAt="right" orient="right" ticks={5} tickStroke="#FFFFFF" {...yGrid} />
 					<MouseCoordinateY

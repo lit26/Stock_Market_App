@@ -14,7 +14,10 @@ function ChartDisplay() {
     useEffect(() => {
         setTimeout(function () {
             if (ticker != '') {
-                let request = { "tickers": [ticker], "market": "history", "data_format": "v2" }
+                let request = { "tickers": [ticker], 
+                                "interval": interval,
+                                "market": "history", 
+                                "data_format": "v2" }
                 axios.post('/api/', request)
                     .then(res => {
                         let resdata = res.data.data;
