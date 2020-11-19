@@ -7,6 +7,6 @@ Full Stack web develop for getting stock information.
 ## API
 | HTTP Method | URI | Action| Sample Request Data |
 | ------------- | ------------- | ------------- | ------------- |
-| POST | http://[hostname]/api/ | Getting stock history | {"ticker": "TSLA"} |
-| POST | http://[hostname]/api/multi | Getting stocks market value | {"tickers": ["TSLA","NIO"]} |
+| POST | http://[hostname]/api/ | Getting stock history | {"tickers": ["TSLA","NIO"], "market": "history", "data_format": "v2" } |
+| POST | http://[hostname]/api/ | Getting stocks market value | {"tickers": ["TSLA","NIO"], "market": "current"} |
 
