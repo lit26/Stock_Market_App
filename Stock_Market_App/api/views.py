@@ -14,10 +14,8 @@ class TickerView(views.APIView):
         tickers = ' '.join(ticker_list)
 
         market = request_data['market']
-        period = '1y'
-        if market == 'current':
-            period = '5d'
         interval = request_data['interval']
+        period = request_data['period']
         
         df = fetch_market(tickers, period,interval)
 

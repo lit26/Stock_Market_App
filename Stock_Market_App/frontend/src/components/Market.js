@@ -1,12 +1,14 @@
 import React, {useState, useEffect} from 'react'
 import axios from 'axios'
-import MarketRow from './MarketRow'
 import {useDispatch} from 'react-redux'
 import {setTicker} from '../redux/action';
+import TickerSetting from './TickerSetting'
+import SortableTicker from './SortableTicker'
 
 function Market() {
-    const [row, setRow] = useState([]);
+    const [sortableTicker, setSortableTicker] = useState(null);
     const dispatch = useDispatch();
+
 
     useEffect(()=>{
         // load from storage
@@ -22,21 +24,12 @@ function Market() {
         // request from api
         let request = {"tickers": tickers,
                         "interval": "1d", 
+                        "period": "5d",
                         "market": "current"}
         axios.post('/api/', request)
             .then(res => {
                 let tickers = res.data.metadata.tickers
-                let tickerRows = tickers.map((ticker, index)=>
-                    <MarketRow 
-                        key={index}
-                        ticker={ticker}
-                        price={res.data.data[ticker].market}
-                        chg={res.data.data[ticker].chg}
-                        pct={res.data.data[ticker].pct}
-                    />
-                    
-                )
-                setRow(tickerRows)
+                setSortableTicker(<SortableTicker tickers={tickers} data={res.data.data}/>)
             })
             .catch(err => {
                 console.log(err)
@@ -45,6 +38,10 @@ function Market() {
 
     return (
         <div className="Market">
+            <div className="Market__setting">
+                <h2>Watchlist</h2>
+                <TickerSetting />
+            </div>
             <table>
                 <thead className="Market__header">
                     <tr>
@@ -54,9 +51,7 @@ function Market() {
                         <th>Pct</th>
                     </tr>
                 </thead>
-                <tbody className="Market__main">
-                    {row}
-                </tbody>
+                {sortableTicker} 
             </table>
         </div>
     )

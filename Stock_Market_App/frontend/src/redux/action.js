@@ -10,3 +10,9 @@ export const setInterval = (interval) =>{
         payload: interval
     }
 }
+export const setPeriod = (period) =>{
+    return {
+        type: 'SET_PERIOD',
+        payload: period
+    }
+}

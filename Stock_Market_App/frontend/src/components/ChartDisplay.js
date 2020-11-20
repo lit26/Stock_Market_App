@@ -8,6 +8,7 @@ import { TypeChooser } from "react-stockcharts/lib/helper";
 function ChartDisplay() {
     const ticker = useSelector(state => state.ticker);
     const interval = useSelector(state => state.interval);
+    const period = useSelector(state => state.period);
     const [data, setData] = useState([]);
     const [load, setLoad] = useState(true);
 
@@ -16,6 +17,7 @@ function ChartDisplay() {
             if (ticker != '') {
                 let request = { "tickers": [ticker], 
                                 "interval": interval,
+                                "period":period,
                                 "market": "history", 
                                 "data_format": "v2" }
                 axios.post('/api/', request)
@@ -40,8 +42,8 @@ function ChartDisplay() {
                     })
             }
 
-        }, 1000);
-    }, [ticker, interval])
+        }, 500);
+    }, [ticker, interval, period])
 
     return (
         <div className="ChartDisplay">

@@ -17,10 +17,19 @@ const intervalReducer = (state='1d',action) =>{
             return state;
     }
 }
+const periodReducer = (state='1y',action) =>{
+    switch (action.type){
+        case 'SET_PERIOD':
+            return action.payload;
+        default:
+            return state
+    }
+}
 
 const allReducers = combineReducers({
     ticker: tickerReducer,
-    interval: intervalReducer
+    interval: intervalReducer,
+    period: periodReducer,
 })
 
 export default allReducers;

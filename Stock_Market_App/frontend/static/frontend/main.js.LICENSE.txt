@@ -64,6 +64,14 @@
 
 /*! export CurrentCoordinate [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export ENTERED [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export ENTERING [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export EXITED [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export EXITING [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export EdgeIndicator [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export ElderRaySeries [provided] [no usage info] [missing usage info prevents renaming] */
@@ -184,6 +192,12 @@
 
 /*! export SingleValueTooltip [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export SortableContainer [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export SortableElement [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export SortableHandle [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export SquareMarker [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export StackedBarSeries [provided] [no usage info] [missing usage info prevents renaming] */
@@ -223,6 +237,8 @@
 /*! export TriangleMarker [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export TypeChooser [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export UNMOUNTED [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export VolumeProfileSeries [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -269,6 +285,10 @@
 /*! export area [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/area.js .default */
 
 /*! export areaRadial [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-shape/src/areaRadial.js .default */
+
+/*! export ariaHidden [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export arrayMove [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export ascending [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/ascending.js .default */
 
@@ -654,6 +674,8 @@
 
 /*! export hexToRgb [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export hideSiblings [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export histogram [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/histogram.js .default */
 
 /*! export hours [provided] [no usage info] [missing usage info prevents renaming] */
@@ -980,6 +1002,8 @@
 
 /*! export replaceAtIndex [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export resolveContainerRef [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export rgb [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export rgbBasis [provided] [no usage info] [missing usage info prevents renaming] */
@@ -1060,6 +1084,8 @@
 
 /*! export setInterval [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export setPeriod [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export setTicker [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export shallowEqual [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-redux/es/utils/shallowEqual.js .default */
@@ -1070,6 +1096,8 @@
 
 /*! export sheetsManager [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export showSiblings [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export shuffle [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/shuffle.js .default */
 
 /*! export sign [provided] [no usage info] [missing usage info prevents renaming] */
@@ -1079,6 +1107,12 @@
 /*! export slice [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export slidingWindow [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/slidingWindow.js .default */
+
+/*! export sortableContainer [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export sortableElement [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export sortableHandle [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export sqrt [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -1592,6 +1626,14 @@
   !*** ./src/components/MarketRow.js ***!
   \*************************************/
 
+/*!*************************************!*\
+  !*** ./src/components/MenuInput.js ***!
+  \*************************************/
+
+/*!***************************************!*\
+  !*** ./src/components/PeriodInput.js ***!
+  \***************************************/
+
 /*!***************************************!*\
   !*** ./src/components/TickerInput.js ***!
   \***************************************/
@@ -1647,6 +1689,14 @@
 /*!*****************************************!*\
   !*** ./src/components/IntervalInput.js ***!
   \*****************************************/
+
+/*!*****************************************!*\
+  !*** ./src/components/TickerSetting.js ***!
+  \*****************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/array-move/index.js ***!
+  \******************************************/
 
 /*!******************************************!*\
   !*** ./node_modules/classnames/index.js ***!
@@ -1710,6 +1760,10 @@
 
 /*!******************************************!*\
   !*** ./node_modules/prop-types/index.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./src/components/SortableTicker.js ***!
   \******************************************/
 
 /*!*******************************************!*\
@@ -1914,6 +1968,10 @@
 
 /*!*********************************************!*\
   !*** ./node_modules/d3-time/src/utcYear.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/dom-helpers/esm/css.js ***!
   \*********************************************/
 
 /*!*********************************************!*\
@@ -2337,6 +2395,10 @@
   \**************************************************/
 
 /*!**************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/addClass.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
   !*** ./node_modules/dom-helpers/esm/camelize.js ***!
   \**************************************************/
 
@@ -2349,7 +2411,19 @@
   \**************************************************/
 
 /*!**************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/isWindow.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
   !*** ./node_modules/lodash.flattendeep/index.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/Fade.js ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/react-overlays/esm/Modal.js ***!
   \**************************************************/
 
 /*!**************************************************!*\
@@ -2425,7 +2499,15 @@
   \***************************************************/
 
 /*!***************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/hyphenate.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
   !*** ./node_modules/is-in-browser/dist/module.js ***!
+  \***************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/Modal.js ***!
   \***************************************************/
 
 /*!***************************************************!*\
@@ -2481,6 +2563,10 @@
   \****************************************************/
 
 /*!****************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/isDocument.js ***!
+  \****************************************************/
+
+/*!****************************************************!*\
   !*** ./node_modules/hyphenate-style-name/index.js ***!
   \****************************************************/
 
@@ -2499,6 +2585,10 @@
 /*!****************************************************!*\
   !*** ./node_modules/symbol-observable/es/index.js ***!
   \****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/@material-ui/icons/Settings.js ***!
+  \*****************************************************/
 
 /*!*****************************************************!*\
   !*** ./node_modules/axios/lib/core/enhanceError.js ***!
@@ -2538,6 +2628,18 @@
 
 /*!*****************************************************!*\
   !*** ./node_modules/d3-time-format/src/isoParse.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/isTransform.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/ownerWindow.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/removeClass.js ***!
   \*****************************************************/
 
 /*!*****************************************************!*\
@@ -2657,7 +2759,23 @@
   \*******************************************************/
 
 /*!*******************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/activeElement.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
   !*** ./node_modules/dom-helpers/esm/ownerDocument.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/scrollbarSize.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/transitionEnd.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/ModalBody.js ***!
   \*******************************************************/
 
 /*!*******************************************************!*\
@@ -2710,6 +2828,14 @@
 
 /*!********************************************************!*\
   !*** ./node_modules/d3-shape/src/offset/silhouette.js ***!
+  \********************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/hyphenateStyle.js ***!
+  \********************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/ModalTitle.js ***!
   \********************************************************/
 
 /*!********************************************************!*\
@@ -2809,7 +2935,27 @@
   \*********************************************************/
 
 /*!*********************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/CloseButton.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/ModalDialog.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/ModalFooter.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/ModalHeader.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
   !*** ./node_modules/react-overlays/esm/DropdownMenu.js ***!
+  \*********************************************************/
+
+/*!*********************************************************!*\
+  !*** ./node_modules/react-overlays/esm/ModalManager.js ***!
   \*********************************************************/
 
 /*!*********************************************************!*\
@@ -2830,6 +2976,10 @@
 
 /*!**********************************************************!*\
   !*** ./node_modules/@restart/hooks/esm/useMergedRefs.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/@restart/hooks/esm/useUpdatedRef.js ***!
   \**********************************************************/
 
 /*!**********************************************************!*\
@@ -2885,6 +3035,10 @@
   \**********************************************************/
 
 /*!**********************************************************!*\
+  !*** ./node_modules/dom-helpers/esm/getComputedStyle.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
   !*** ./node_modules/dom-helpers/esm/querySelectorAll.js ***!
   \**********************************************************/
 
@@ -2894,6 +3048,14 @@
 
 /*!**********************************************************!*\
   !*** ./node_modules/react-bootstrap/esm/DropdownMenu.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/ModalContext.js ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/react-overlays/esm/isOverflowing.js ***!
   \**********************************************************/
 
 /*!**********************************************************!*\
@@ -2962,6 +3124,10 @@
 
 /*!***********************************************************!*\
   !*** ./node_modules/@restart/hooks/esm/useForceUpdate.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/@restart/hooks/esm/useWillUnmount.js ***!
   \***********************************************************/
 
 /*!***********************************************************!*\
@@ -3045,6 +3211,10 @@
   \***********************************************************/
 
 /*!***********************************************************!*\
+  !*** ./node_modules/react-transition-group/esm/config.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
   !*** ./node_modules/uncontrollable/esm/uncontrollable.js ***!
   \***********************************************************/
 
@@ -3117,6 +3287,10 @@
   \************************************************************/
 
 /*!*************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/inherits.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
   !*** ./node_modules/@material-ui/core/esm/SvgIcon/index.js ***!
   \*************************************************************/
 
@@ -3177,6 +3351,14 @@
   \*************************************************************/
 
 /*!*************************************************************!*\
+  !*** ./node_modules/react-overlays/esm/manageAriaHidden.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/react-overlays/esm/useWaitForDOMRef.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
   !*** ./node_modules/react-stockcharts/es/lib/utils/noop.js ***!
   \*************************************************************/
 
@@ -3194,6 +3376,10 @@
 
 /*!**************************************************************!*\
   !*** ./node_modules/d3-selection/src/selection/selectAll.js ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/divWithClassName.js ***!
   \**************************************************************/
 
 /*!**************************************************************!*\
@@ -3268,6 +3454,10 @@
   !*** ./node_modules/react-stockcharts/lib/helper/fitWidth.js ***!
   \***************************************************************/
 
+/*!***************************************************************!*\
+  !*** ./node_modules/react-transition-group/esm/Transition.js ***!
+  \***************************************************************/
+
 /*!****************************************************************!*\
   !*** ./node_modules/@babel/runtime/helpers/esm/createClass.js ***!
   \****************************************************************/
@@ -3327,6 +3517,10 @@
 /*!****************************************************************!*\
   !*** ./node_modules/scheduler/cjs/scheduler.production.min.js ***!
   \****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/objectSpread.js ***!
+  \*****************************************************************/
 
 /*!*****************************************************************!*\
   !*** ./node_modules/@material-ui/core/esm/styles/withStyles.js ***!
@@ -3409,6 +3603,10 @@
   \******************************************************************/
 
 /*!******************************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/triggerBrowserReflow.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
   !*** ./node_modules/react-redux/es/utils/reactBatchedUpdates.js ***!
   \******************************************************************/
 
@@ -3441,7 +3639,19 @@
   \*******************************************************************/
 
 /*!*******************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/classCallCheck.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
   !*** ./node_modules/@babel/runtime/helpers/esm/defineProperty.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js ***!
   \*******************************************************************/
 
 /*!*******************************************************************!*\
@@ -3462,6 +3672,10 @@
 
 /*!*******************************************************************!*\
   !*** ./node_modules/@popperjs/core/lib/utils/rectToClientRect.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-bootstrap/esm/BootstrapModalManager.js ***!
   \*******************************************************************/
 
 /*!*******************************************************************!*\
@@ -3789,6 +4003,10 @@
   \************************************************************************/
 
 /*!************************************************************************!*\
+  !*** ./node_modules/react-sortable-hoc/dist/react-sortable-hoc.esm.js ***!
+  \************************************************************************/
+
+/*!************************************************************************!*\
   !*** ./node_modules/react-stockcharts/es/lib/GenericChartComponent.js ***!
   \************************************************************************/
 
@@ -3888,6 +4106,10 @@
   !*** ./node_modules/react-stockcharts/lib/series/PointAndFigureSeries.js ***!
   \***************************************************************************/
 
+/*!***************************************************************************!*\
+  !*** ./node_modules/react-transition-group/esm/TransitionGroupContext.js ***!
+  \***************************************************************************/
+
 /*!****************************************************************************!*\
   !*** ./node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js ***!
   \****************************************************************************/
@@ -3935,6 +4157,10 @@
 /*!*****************************************************************************!*\
   !*** ./node_modules/react-stockcharts/lib/coordinates/CurrentCoordinate.js ***!
   \*****************************************************************************/
+
+/*!******************************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js ***!
+  \******************************************************************************/
 
 /*!******************************************************************************!*\
   !*** ./node_modules/jss-plugin-camel-case/dist/jss-plugin-camel-case.esm.js ***!

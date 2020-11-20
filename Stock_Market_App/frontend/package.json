@@ -24,6 +24,7 @@
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
+    "array-move": "^3.0.1",
     "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
     "d3": "^6.2.0",
@@ -31,6 +32,7 @@
     "react-canvas-js": "^1.0.1",
     "react-redux": "^7.2.2",
     "react-router-dom": "^5.2.0",
+    "react-sortable-hoc": "^1.11.0",
     "react-stockcharts": "^0.7.8",
     "redux": "^4.0.5"
   }

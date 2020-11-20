@@ -10,10 +10,19 @@
 .Market table{
     border-collapse:collapse;
 }
+.Market__setting h2{
+    margin:7px 0px;
+}
 .Market__header{
     border-bottom: 1px solid;
     background-color: rgb(19, 23, 34);
 }
 .Market__main tr:hover{
+    cursor: pointer;
     background-color: rgb(19, 23, 34);
+}
+.Market__setting{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
 }
