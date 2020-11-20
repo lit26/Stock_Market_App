@@ -33,6 +33,8 @@
     position: relative;
     flex: 1 1 auto;
     padding: 1rem;
+    width: 80%;
+    margin: auto;
 }
 .modal-footer{
     display: flex;
@@ -98,4 +100,14 @@
     color: #fff;
     background-color: #6c757d;
     border: #6c757d;
+}
+.delRow{
+    padding: 10px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #6c757d;
+}
+.delRow svg{
+    cursor:pointer;
 }

@@ -1,27 +1,42 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import SettingsIcon from '@material-ui/icons/Settings';
 import { Modal, Button } from 'react-bootstrap'
-import SortableTicker from './SortableTicker'
+import CloseIcon from '@material-ui/icons/Close';
 
 function TickerSetting() {
     const [show, setShow] = useState(false);
+    const [tickers, setTickers] = useState([])
 
     const handleClose = () => setShow(false);
     const handleShow = () => setShow(true);
 
+    useEffect(() => {
+        setTickers(JSON.parse(localStorage.getItem("tickers")))
+    },[])
+
+    const delHandler = (selectTicker) =>{
+        console.log(tickers.filter(ticker => ticker != selectTicker))
+        localStorage.setItem("tickers", JSON.stringify(tickers.filter(ticker => ticker != selectTicker)));
+        location.reload();
+    }
+
     return (
         <>
-            {/* <Button variant="primary" onClick={handleShow}>
-                Launch demo modal
-            </Button> */}
             <SettingsIcon onClick={handleShow} />
 
             <Modal show={show} onHide={handleClose}>
                 <Modal.Header closeButton>
-                    <Modal.Title>Modal heading</Modal.Title>
+                    <Modal.Title>Delete Ticker</Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
-                    <SortableTicker />
+                {tickers.map((ticker, index)=>{
+                    return (
+                        <div className="delRow">
+                            <div>{ticker}</div>
+                            <CloseIcon onClick={()=>delHandler(ticker)}/>
+                        </div>
+                    )
+                })}
                 </Modal.Body>
                 <Modal.Footer>
                     <Button variant="secondary" onClick={handleClose}>

@@ -18,6 +18,7 @@ function TickerInput() {
             localTicker = [inputText, ...localTicker];
             let request = {"tickers": localTicker, 
                             "interval": "1d",
+                            "period": "5d",
                             "market": "current"}
             axios.post('/api/', request)
                 .then(res => {
