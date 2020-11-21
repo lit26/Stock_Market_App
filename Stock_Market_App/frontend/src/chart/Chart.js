@@ -21,7 +21,7 @@ import { last } from "react-stockcharts/lib/utils";
 class CandleStickChartWithCHMousePointer extends React.Component {
 	render() {
         const height = window.innerHeight*0.9-60;
-        const { type, data: initialData, width, ratio } = this.props;
+        const { type, data: initialData, width, ratio, timeformat } = this.props;
         const margin = { left: 70, right: 70, top: 30, bottom: 30 }
         const gridHeight = height - margin.top - margin.bottom;
         const gridWidth = width - margin.left - margin.right;
@@ -48,7 +48,7 @@ class CandleStickChartWithCHMousePointer extends React.Component {
 				width={width}
 				margin={margin}
 				type={type}
-				seriesName="MSFT"
+				seriesName=""
 				data={data}
 				xScale={xScale}
 				xAccessor={xAccessor}
@@ -86,7 +86,7 @@ class CandleStickChartWithCHMousePointer extends React.Component {
 					<MouseCoordinateX
 						at="bottom"
 						orient="bottom"
-						displayFormat={timeFormat("%Y-%m-%d")}
+						displayFormat={timeFormat(timeformat)}
 					/>
 					<MouseCoordinateY
 						at="left"
