@@ -10,5 +10,5 @@ def fetch_market(ticker, period, interval):
             prepost=False,
             threads=True,
     )
-    df = data.reset_index()
+    df = data.reset_index().fillna('')
     return df

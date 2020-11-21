@@ -1,3 +1,85 @@
+/*! CommonJS bailout: exports is used directly at 108:23-30 */
+
+/*! CommonJS bailout: exports is used directly at 120:23-30 */
+
+/*! CommonJS bailout: exports is used directly at 4:46-53 */
+
+/*! CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 10:121-141 */
+
+/*! CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 11:504-524 */
+
+/*! CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 12:312-332 */
+
+/*! CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 13:15-35 */
+
+/*! CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 16:248-268 */
+
+/*! CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 19:56-76 */
+
+/*! CommonJS bailout: exports.unstable_shouldYield(...) prevents optimization as exports is passed as call context at 16:106-134 */
+
+/*! CommonJS bailout: module.exports is used directly at 103:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 10:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 12:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 13:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 15:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 16:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 18:2-16 */
+
+/*! CommonJS bailout: module.exports is used directly at 19:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 1:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 20:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 22:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 23:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 27:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 2:2-16 */
+
+/*! CommonJS bailout: module.exports is used directly at 328:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 350:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 3:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 41:38-52 */
+
+/*! CommonJS bailout: module.exports is used directly at 43:2-16 */
+
+/*! CommonJS bailout: module.exports is used directly at 49:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 50:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 52:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 57:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 5:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 62:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 65:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 6:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 7:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 95:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 98:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 9:0-14 */
+
 /*! default exports */
 
 /*! dynamic exports */
@@ -21,6 +103,8 @@
 /*! export BollingerBandTooltip [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export BollingerSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export BrowserRouter [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export CandlestickSeries [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -104,6 +188,8 @@
 
 /*! export GroupedBarSeries [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export HashRouter [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export HoverTooltip [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export KagiSeries [provided] [no usage info] [missing usage info prevents renaming] */
@@ -113,6 +199,8 @@
 /*! export Lazy [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Lazy */
 
 /*! export LineSeries [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Link [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export MACDSeries [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -130,6 +218,10 @@
 
 /*! export Memo [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Memo */
 
+/*! export MemoryRouter [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export MemoryRouter [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .MemoryRouter */
+
 /*! export MouseCoordinateX [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export MouseCoordinateXV2 [provided] [no usage info] [missing usage info prevents renaming] */
@@ -137,6 +229,8 @@
 /*! export MouseCoordinateY [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export MovingAverageTooltip [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export NavLink [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export OHLCSeries [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -156,6 +250,10 @@
 
 /*! export Profiler [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .Profiler */
 
+/*! export Prompt [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Prompt [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .Prompt */
+
 /*! export Provider [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-redux/es/components/Provider.js .default */
 
 /*! export PureComponent [provided] [no usage info] [missing usage info prevents renaming] */
@@ -172,9 +270,21 @@
 
 /*! export ReactReduxContext [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-redux/es/components/Context.js .ReactReduxContext */
 
+/*! export Redirect [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Redirect [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .Redirect */
+
 /*! export RenkoSeries [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export Rgb [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Route [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Route [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .Route */
+
+/*! export Router [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Router [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .Router */
 
 /*! export RuleList [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -202,6 +312,10 @@
 
 /*! export StackedBarSeries [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export StaticRouter [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export StaticRouter [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .StaticRouter */
+
 /*! export StochasticSeries [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export StochasticTooltip [provided] [no usage info] [missing usage info prevents renaming] */
@@ -221,6 +335,10 @@
 /*! export Suspense [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react-is/cjs/react-is.production.min.js .Suspense */
 
 /*! export Suspense [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .Suspense */
+
+/*! export Switch [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export Switch [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .Switch */
 
 /*! export TOUCHEND [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -249,6 +367,10 @@
 /*! export ZoomButtons [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/ZoomButtons.js .default */
 
 /*! export __DO_NOT_USE__ActionTypes [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export __HistoryContext [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export __RouterContext [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export __SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -364,6 +486,8 @@
 
 /*! export createBootstrapComponent [provided] [no usage info] [missing usage info prevents renaming] */
 
+/*! export createBrowserHistory [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export createConnect [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export createContext [provided] [no usage info] [missing usage info prevents renaming] */
@@ -383,6 +507,14 @@
 /*! export createFactory [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .createFactory */
 
 /*! export createGenerateId [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export createHashHistory [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export createLocation [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export createMemoryHistory [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export createPath [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export createPopper [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -605,6 +737,10 @@
 /*! export functor [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export gamma [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export generatePath [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export generatePath [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .generatePath */
 
 /*! export genericArray [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -848,6 +984,8 @@
 
 /*! export local [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/local.js .default */
 
+/*! export locationsAreEqual [provided] [no usage info] [missing usage info prevents renaming] */
+
 /*! export magma [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export main [provided] [no usage info] [missing usage info prevents renaming] */
@@ -865,6 +1003,10 @@
 /*! export mapValue [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export mappedSlidingWindow [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-stockcharts/es/lib/utils/mappedSlidingWindow.js .default */
+
+/*! export matchPath [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export matchPath [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .matchPath */
 
 /*! export matcher [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/matcher.js .default */
 
@@ -931,6 +1073,8 @@
 /*! export pair [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export pairs [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-array/src/pairs.js .default */
+
+/*! export parsePath [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export path [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -1386,6 +1530,10 @@
 
 /*! export useEffect [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useEffect */
 
+/*! export useHistory [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export useHistory [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .useHistory */
+
 /*! export useImperativeHandle [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export useImperativeHandle [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useImperativeHandle */
@@ -1396,9 +1544,17 @@
 
 /*! export useLayoutEffect [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useLayoutEffect */
 
+/*! export useLocation [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export useLocation [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .useLocation */
+
 /*! export useMemo [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export useMemo [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useMemo */
+
+/*! export useParams [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export useParams [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .useParams */
 
 /*! export useReducer [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -1409,6 +1565,10 @@
 /*! export useRef [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export useRef [provided] [no usage info] [provision prevents renaming (no use info)] -> ./node_modules/react/cjs/react.production.min.js .useRef */
+
+/*! export useRouteMatch [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export useRouteMatch [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .useRouteMatch */
 
 /*! export useSelector [provided] [no usage info] [missing usage info prevents renaming] */
 
@@ -1510,6 +1670,10 @@
 
 /*! export window [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/d3-selection/src/window.js .default */
 
+/*! export withRouter [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! export withRouter [provided] [no usage info] [missing usage info prevents renaming] -> ./node_modules/react-router/esm/react-router.js .withRouter */
+
 /*! export wrapMapToPropsConstant [provided] [no usage info] [missing usage info prevents renaming] */
 
 /*! export wrapMapToPropsFunc [provided] [no usage info] [missing usage info prevents renaming] */
@@ -1552,11 +1716,15 @@
 
 /*! runtime requirements: __webpack_exports__, module */
 
+/*! runtime requirements: __webpack_require__, __webpack_exports__, __webpack_require__.d, __webpack_require__.n, __webpack_require__.r, __webpack_require__.* */
+
 /*! runtime requirements: __webpack_require__, __webpack_exports__, __webpack_require__.d, __webpack_require__.r, __webpack_require__.* */
 
 /*! runtime requirements: __webpack_require__, __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
 
 /*! runtime requirements: __webpack_require__, __webpack_require__.n, __webpack_exports__, __webpack_require__.r, __webpack_require__.d, __webpack_require__.* */
+
+/*! runtime requirements: __webpack_require__, __webpack_require__.n, __webpack_exports__, __webpack_require__.r, __webpack_require__.g, __webpack_require__.d, __webpack_require__.* */
 
 /*! runtime requirements: __webpack_require__, __webpack_require__.n, __webpack_require__.r, __webpack_exports__, __webpack_require__.d, __webpack_require__.* */
 
@@ -1595,6 +1763,10 @@
   \*****************************/
 
 /*!*******************************!*\
+  !*** ./src/page/Chartpage.js ***!
+  \*******************************/
+
+/*!*******************************!*\
   !*** ./src/redux/reducers.js ***!
   \*******************************/
 
@@ -1603,12 +1775,12 @@
   \**********************************/
 
 /*!**********************************!*\
-  !*** ./src/components/Layout.js ***!
-  \**********************************/
-
-/*!**********************************!*\
   !*** ./src/components/Market.js ***!
   \**********************************/
+
+/*!***********************************!*\
+  !*** ./src/page/Fundamentpage.js ***!
+  \***********************************/
 
 /*!*************************************!*\
   !*** ./node_modules/axios/index.js ***!
@@ -1629,6 +1801,10 @@
 /*!*************************************!*\
   !*** ./src/components/MenuInput.js ***!
   \*************************************/
+
+/*!***************************************!*\
+  !*** ./node_modules/isarray/index.js ***!
+  \***************************************/
 
 /*!***************************************!*\
   !*** ./src/components/PeriodInput.js ***!
@@ -1975,6 +2151,10 @@
   \*********************************************/
 
 /*!*********************************************!*\
+  !*** ./node_modules/history/esm/history.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
   !*** ./node_modules/object-assign/index.js ***!
   \*********************************************/
 
@@ -2044,6 +2224,10 @@
 
 /*!**********************************************!*\
   !*** ./node_modules/d3-time/src/utcMonth.js ***!
+  \**********************************************/
+
+/*!**********************************************!*\
+  !*** ./node_modules/path-to-regexp/index.js ***!
   \**********************************************/
 
 /*!**********************************************!*\
@@ -2650,6 +2834,10 @@
   !*** ./node_modules/react-overlays/esm/Dropdown.js ***!
   \*****************************************************/
 
+/*!*****************************************************!*\
+  !*** ./node_modules/value-equal/esm/value-equal.js ***!
+  \*****************************************************/
+
 /*!******************************************************!*\
   !*** ./node_modules/axios/lib/cancel/CancelToken.js ***!
   \******************************************************/
@@ -2784,6 +2972,10 @@
 
 /*!*******************************************************!*\
   !*** ./node_modules/react-redux/es/hooks/useStore.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./node_modules/react-router/esm/react-router.js ***!
   \*******************************************************/
 
 /*!*******************************************************!*\
@@ -3443,6 +3635,10 @@
   \***************************************************************/
 
 /*!***************************************************************!*\
+  !*** ./node_modules/react-router-dom/esm/react-router-dom.js ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
   !*** ./node_modules/react-stockcharts/es/lib/EventCapture.js ***!
   \***************************************************************/
 
@@ -3460,6 +3656,10 @@
 
 /*!***************************************************************!*\
   !*** ./node_modules/react-transition-group/esm/Transition.js ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./node_modules/resolve-pathname/esm/resolve-pathname.js ***!
   \***************************************************************/
 
 /*!****************************************************************!*\
@@ -3520,6 +3720,10 @@
 
 /*!****************************************************************!*\
   !*** ./node_modules/scheduler/cjs/scheduler.production.min.js ***!
+  \****************************************************************/
+
+/*!****************************************************************!*\
+  !*** ./node_modules/tiny-invariant/dist/tiny-invariant.esm.js ***!
   \****************************************************************/
 
 /*!*****************************************************************!*\
@@ -3604,6 +3808,10 @@
 
 /*!******************************************************************!*\
   !*** ./node_modules/@popperjs/core/lib/utils/expandToHashMap.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/mini-create-react-context/dist/esm/index.js ***!
   \******************************************************************/
 
 /*!******************************************************************!*\

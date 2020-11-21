@@ -49,6 +49,7 @@ function Market() {
                         <th>Price</th>
                         <th>Chg</th>
                         <th>Pct</th>
+                        <td></td>
                     </tr>
                 </thead>
                 {sortableTicker} 

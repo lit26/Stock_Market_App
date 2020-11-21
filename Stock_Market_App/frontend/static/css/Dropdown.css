@@ -1,5 +1,5 @@
 .Menu__dropdown{
-    width: 40px;
+    width: 32px;
     height: 32px;
     margin: 4px;
 }
@@ -9,15 +9,9 @@
     color: rgb(209, 212, 220);
     background-color: #222838;
     border: 0px;
-}
-.Menu__dropdownButton span{
-    height:16px;
-    width: 20px;
-    font-size: 15px;
-}
-.Menu__dropdownButton svg{
-    width:16px;
-    height:20px;
+    font-size: 13px !important;
+    text-align: center !important;
+    padding: 0 !important;
 }
 .Menu__dropdownItems{
     z-index: 2;
@@ -36,4 +30,7 @@
 .Menu__dropdownHeader{
     background-color:rgb(19, 23, 34);
     padding: 4px;
+}
+.Menu__menu{
+    padding: 0px !important;
 }

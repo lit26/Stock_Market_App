@@ -1,6 +1,10 @@
 import React, {useEffect, useState} from 'react'
 import {useDispatch} from 'react-redux'
 import {setTicker} from '../redux/action';
+import {sortableHandle} from 'react-sortable-hoc';
+import MenuIcon from '@material-ui/icons/Menu';
+
+const DragHandle = sortableHandle(() => <span><MenuIcon /></span>);
 
 function MarketRow({ticker, price, chg, pct}) {
     const [color, setColor] = useState('rgb(209, 212, 220)');
@@ -20,6 +24,7 @@ function MarketRow({ticker, price, chg, pct}) {
             <td>${price.toFixed(2)}</td>
             <td style={{ color: color }}>{chg.toFixed(2)}</td>
             <td style={{ color: color }}>{pct.toFixed(2)}%</td>
+            <td><DragHandle /></td>
         </tr>
     )
 }

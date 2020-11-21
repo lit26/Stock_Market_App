@@ -87,7 +87,7 @@
     user-select: none;
     padding: 0.375rem 0.75rem;
     font-size: 1rem;
-    line-height:1.5;
+    /* line-height:1.5; */
     border-radius: 0.25rem;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
@@ -106,7 +106,6 @@
     display:flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #6c757d;
 }
 .delRow svg{
     cursor:pointer;

@@ -1,13 +1,20 @@
 import React from 'react'
 import Footer from './components/Footer'
-import Layout from './components/Layout'
+import Chartpage from './page/Chartpage'
+import Fundamentpage from './page/Fundamentpage'
+import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
+
 
 function App() {
     return (
-        <div>
-            <div className="App">
-                <Layout />
-            </div>
+        <div className="App">
+            <Router>
+                <Switch>
+                    <Route path="/fundament" component={Fundamentpage} />
+                    <Route path="/" component={Chartpage} />
+                </Switch>
+            </Router>
+            
             <Footer />
         </div>
         

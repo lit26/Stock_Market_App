@@ -1,13 +1,13 @@
 import React from 'react'
-import Market from './Market'
-import ChartMenu from './ChartMenu'
-import ChartDisplay from './ChartDisplay'
+import Market from '../components/Market'
+import ChartMenu from '../components/ChartMenu'
+import ChartDisplay from '../components/ChartDisplay'
 
-function Layout() {
+function Chartpage() {
     return (
         <div className="Layout">
             <div className="Layout__left">
-                <ChartMenu />
+                <ChartMenu timeframe={true}/>
                 <ChartDisplay />
             </div>
             <div className="Layout__right">
@@ -17,4 +17,4 @@ function Layout() {
     )
 }
 
-export default Layout
+export default Chartpage

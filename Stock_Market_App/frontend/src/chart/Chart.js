@@ -20,7 +20,7 @@ import { last } from "react-stockcharts/lib/utils";
 
 class CandleStickChartWithCHMousePointer extends React.Component {
 	render() {
-        const height = 600;
+        const height = window.innerHeight*0.9-60;
         const { type, data: initialData, width, ratio } = this.props;
         const margin = { left: 70, right: 70, top: 30, bottom: 30 }
         const gridHeight = height - margin.top - margin.bottom;

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { sortableContainer, sortableElement } from 'react-sortable-hoc';
+import { sortableContainer, sortableHandle,sortableElement } from 'react-sortable-hoc';
 import arrayMove from 'array-move';
 import MarketRow from './MarketRow'
 
@@ -40,7 +40,7 @@ class SortableTicker extends Component {
             tickersData.push(tickerData);
         }
         return (
-            <SortableContainer onSortEnd={this.onSortEnd}>
+            <SortableContainer onSortEnd={this.onSortEnd} useDragHandle>
                 {tickersData.map((value, index) => (
                     <SortableItem key={`item-${value.ticker}`} index={index} value={value} />
                 ))}
