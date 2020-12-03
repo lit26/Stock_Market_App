@@ -4,8 +4,11 @@ from .serializers import TickerSerializer
 from django.http import HttpResponse
 from .ticker import fetch_market
 import numpy as np
+import yfinance as yf
 
 # Getting multi ticker market value and pct
+
+
 class TickerView(views.APIView):
     def post(self, request):
         request_data = request.data
@@ -42,15 +45,14 @@ class TickerView(views.APIView):
 
             results = TickerSerializer(data).data
         else:
-            quote = None
             date_format = None
-            if interval in ['1m', '2m','5m','15m','30m','60m','90m']:
-                df['Datetime'] = df['Datetime'].dt.strftime("%Y-%m-%d %H:%M:%S")
+            if interval in ['1m', '2m', '5m', '15m', '30m', '60m', '90m']:
+                df['Datetime'] = df['Datetime'].dt.strftime(
+                    "%Y-%m-%d %H:%M:%S")
                 date_format = 'Datetime'
             else:
                 df['Date'] = df['Date'].dt.date
                 date_format = 'Date'
-                
 
             data_format = request_data['data_format']
             data = None
@@ -97,4 +99,17 @@ class TickerView(views.APIView):
 
             results = TickerSerializer(data).data
 
+        return Response(results)
+
+
+class FundamentView(views.APIView):
+    def get(self, request, pk):
+        stock = yf.Ticker(pk.upper())
+        data = {
+                'metadata': {
+                    'tickers': pk
+                },
+                'data': stock.info
+            }
+        results = TickerSerializer(data).data
         return Response(results)
