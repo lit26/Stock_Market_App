@@ -10,3 +10,6 @@ Full Stack web develop for getting stock information.
 | POST | http://[hostname]/api/ | Getting single stock history | {"tickers": ["TSLA"], "interval": "1d", "period":"5d","market": "history", "data_format": "v2" } |
 | POST | http://[hostname]/api/ | Getting stocks market value | {"tickers": ["TSLA","NIO"], "interval": "1d", "period":"5d", "market": "current"} |
 
+## Frontend Display
+![screenshot1](asset/demo.png)
+
