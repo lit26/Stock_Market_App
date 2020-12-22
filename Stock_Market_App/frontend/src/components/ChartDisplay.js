@@ -6,6 +6,7 @@ import Chart from '../chart/Chart';
 import { TypeChooser } from "react-stockcharts/lib/helper";
 import { available_list } from "./availability"
 import {setPeriod} from '../redux/action';
+import './ChartDisplay.css'
 
 function ChartDisplay() {
     const ticker = useSelector(state => state.ticker);

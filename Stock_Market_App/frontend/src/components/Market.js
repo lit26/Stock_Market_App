@@ -4,6 +4,7 @@ import {useDispatch} from 'react-redux'
 import {setTicker} from '../redux/action';
 import TickerSetting from './TickerSetting'
 import SortableTicker from './SortableTicker'
+import './Market.css'
 
 function Market() {
     const [sortableTicker, setSortableTicker] = useState(null);

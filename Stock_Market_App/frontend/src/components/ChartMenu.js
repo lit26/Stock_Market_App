@@ -3,6 +3,8 @@ import TickerInput from './TickerInput'
 import IntervalInput from './IntervalInput'
 import PeriodInput from './PeriodInput'
 import MenuInput from './MenuInput'
+import './ChartMenu.css'
+import './Dropdown.css'
 
 function ChartMenu({timeframe}) {
     return (

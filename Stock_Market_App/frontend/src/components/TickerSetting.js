@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import SettingsIcon from '@material-ui/icons/Settings';
 import { Modal, Button } from 'react-bootstrap'
 import CloseIcon from '@material-ui/icons/Close';
+import './Modal.css'
 
 function TickerSetting() {
     const [show, setShow] = useState(false);

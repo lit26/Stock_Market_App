@@ -2,6 +2,7 @@ import React from 'react'
 import Market from '../components/Market'
 import ChartMenu from '../components/ChartMenu'
 import ChartDisplay from '../components/ChartDisplay'
+import './Layout.css'
 
 function Chartpage() {
     return (

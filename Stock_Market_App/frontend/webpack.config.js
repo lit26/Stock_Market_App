@@ -16,6 +16,19 @@ module.exports = {
           loader: "babel-loader",
         },
       },
+      {
+        test: /\.(svg|png|jpg|jpeg|gif)$/,
+        loader: "file-loader",
+
+        options: {
+          name: "[name].[ext]",
+          outputPath: "../../static/dist",
+        },
+      },
+      {
+        test: /\.css$/i,
+        use: ["style-loader", "css-loader"],
+      },
     ],
   },
   optimization: {
